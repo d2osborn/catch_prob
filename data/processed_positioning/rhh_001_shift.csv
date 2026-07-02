@@ -1,0 +1,2305 @@
+name_fielder,fielder_id,fld_name_display_club,season,position,pa,avg_norm_start_distance,avg_norm_start_angle
+"Andrus, Elvis",462101,Athletics,2021,SS,25,147,-20
+"Lowrie, Jed",476704,Athletics,2021,2B,17,150,-4
+"Canha, Mark",592192,Athletics,2021,LF,19,309,-26
+"Olson, Matt",621566,Athletics,2021,1B,27,87,40
+"Chapman, Matt",656305,Athletics,2021,3B,26,122,-37
+"Laureano, Ramón",657656,Athletics,2021,CF,16,329,0
+"Adrianza, Ehire",501303,Braves,2021,LF,11,305,-23
+"Adrianza, Ehire",501303,Braves,2021,RF,13,291,28
+"Almonte, Abraham",501659,Braves,2021,LF,61,311,-25
+"Freeman, Freddie",518692,Braves,2021,1B,192,86,41
+"Inciarte, Ender",542255,Braves,2021,CF,20,316,3
+"Ozuna, Marcell",542303,Braves,2021,LF,26,304,-26
+"Pederson, Joc",592626,Braves,2021,CF,24,320,4
+"Pederson, Joc",592626,Braves,2021,RF,33,290,30
+"Rosario, Eddie",592696,Braves,2021,LF,30,311,-24
+"Duvall, Adam",594807,Braves,2021,CF,23,327,4
+"Duvall, Adam",594807,Braves,2021,LF,45,302,-25
+"Arcia, Orlando",606115,Braves,2021,LF,15,316,-26
+"Swanson, Dansby",621020,Braves,2021,SS,193,141,-24
+"Soler, Jorge",624585,Braves,2021,RF,56,291,29
+"Heredia, Guillermo",628338,Braves,2021,CF,120,324,3
+"Albies, Ozzie",645277,Braves,2021,2B,189,146,-6
+"Acuña Jr., Ronald",660670,Braves,2021,RF,91,287,31
+"Riley, Austin",663586,Braves,2021,3B,190,115,-40
+"Peralta, David",444482,D-backs,2021,LF,122,301,-28
+"Cabrera, Asdrúbal",452678,D-backs,2021,3B,44,122,-38
+"Cabrera, Asdrúbal",452678,D-backs,2021,1B,16,86,42
+"Escobar, Eduardo",500871,D-backs,2021,2B,33,147,-6
+"Escobar, Eduardo",500871,D-backs,2021,3B,65,124,-39
+"Reddick, Josh",502210,D-backs,2021,RF,22,302,26
+"Walker, Christian",572233,D-backs,2021,1B,77,87,42
+"Calhoun, Kole",594777,D-backs,2021,RF,36,298,27
+"Ahmed, Nick",605113,D-backs,2021,SS,112,144,-23
+"Marte, Ketel",606466,D-backs,2021,CF,56,331,0
+"Marte, Ketel",606466,D-backs,2021,2B,15,148,-7
+"Mathisen, Wyatt",621500,D-backs,2021,1B,13,89,40
+"Locastro, Tim",641796,D-backs,2021,CF,16,334,0
+"VanMeter, Josh",642165,D-backs,2021,3B,18,116,-37
+"VanMeter, Josh",642165,D-backs,2021,2B,45,149,-6
+"Ellis, Drew",656403,D-backs,2021,3B,16,124,-38
+"Smith, Pavin",656976,D-backs,2021,CF,31,327,-1
+"Smith, Pavin",656976,D-backs,2021,RF,30,298,26
+"Smith, Pavin",656976,D-backs,2021,1B,52,88,42
+"Smith, Pavin",656976,D-backs,2021,LF,10,297,-27
+"Varsho, Daulton",662139,D-backs,2021,RF,11,304,26
+"Varsho, Daulton",662139,D-backs,2021,CF,21,326,0
+"Rojas, Josh",668942,D-backs,2021,SS,33,145,-23
+"Rojas, Josh",668942,D-backs,2021,2B,29,152,-6
+"Rojas, Josh",668942,D-backs,2021,RF,44,302,27
+"Heath, Nick",670084,D-backs,2021,CF,20,334,-1
+"Young, Andrew",670370,D-backs,2021,2B,20,150,-7
+"Perdomo, Geraldo",672695,D-backs,2021,SS,11,142,-22
+"Galvis, Freddy",520471,Orioles,2021,SS,34,143,-22
+"Ruiz, Rio",547004,Orioles,2021,2B,14,153,-3
+"Franco, Maikel",596748,Orioles,2021,3B,46,121,-37
+"Urías, Ramón",602104,Orioles,2021,2B,21,150,-7
+"Martin Jr., Richie",621006,Orioles,2021,SS,15,140,-21
+"Stewart, DJ",621466,Orioles,2021,LF,14,303,-26
+"Stewart, DJ",621466,Orioles,2021,RF,15,299,29
+"Santander, Anthony",623993,Orioles,2021,RF,39,294,29
+"Mancini, Trey",641820,Orioles,2021,1B,36,88,40
+"Valaika, Pat",642162,Orioles,2021,SS,12,141,-24
+"Valaika, Pat",642162,Orioles,2021,2B,24,149,-6
+"Gutiérrez, Kelvin",642721,Orioles,2021,3B,20,123,-38
+"Mullins, Cedric",656775,Orioles,2021,CF,75,323,2
+"Mountcastle, Ryan",663624,Orioles,2021,1B,37,87,43
+"McKenna, Ryan",663630,Orioles,2021,LF,10,298,-25
+"Hays, Austin",669720,Orioles,2021,RF,19,295,29
+"Hays, Austin",669720,Orioles,2021,LF,41,308,-26
+"Gonzalez, Marwin",503556,Red Sox,2021,2B,10,152,-5
+"Hernández, Enrique",571771,Red Sox,2021,CF,32,335,1
+"Hernández, Enrique",571771,Red Sox,2021,2B,13,154,-4
+"Renfroe, Hunter",592669,Red Sox,2021,RF,46,289,28
+"Bogaerts, Xander",593428,Red Sox,2021,SS,46,148,-22
+"Arroyo, Christian",624414,Red Sox,2021,2B,12,153,-4
+"Devers, Rafael",646240,Red Sox,2021,3B,47,121,-38
+"Verdugo, Alex",657077,Red Sox,2021,LF,30,303,-26
+"Dalbec, Bobby",666915,Red Sox,2021,1B,39,88,40
+"Heyward, Jason",518792,Cubs,2021,RF,37,301,27
+"Rizzo, Anthony",519203,Cubs,2021,1B,40,90,40
+"Sogard, Eric",519299,Cubs,2021,2B,12,151,-4
+"Ortega, Rafael",542364,Cubs,2021,CF,22,329,0
+"Marisnick, Jake",545350,Cubs,2021,CF,21,324,-1
+"Bryant, Kris",592178,Cubs,2021,3B,10,112,-37
+"Bryant, Kris",592178,Cubs,2021,LF,11,303,-27
+"Bryant, Kris",592178,Cubs,2021,RF,10,297,27
+"Pederson, Joc",592626,Cubs,2021,LF,21,307,-27
+"Báez, Javier",595879,Cubs,2021,SS,29,145,-24
+"Wisdom, Patrick",621550,Cubs,2021,3B,22,119,-38
+"Duffy, Matt",622110,Cubs,2021,2B,11,150,-4
+"Duffy, Matt",622110,Cubs,2021,3B,22,123,-38
+"Bote, David",623520,Cubs,2021,2B,19,148,-6
+"Alcántara, Sergio",642727,Cubs,2021,SS,23,146,-24
+"Schwindel, Frank",643524,Cubs,2021,1B,19,92,39
+"Hoerner, Nico",663538,Cubs,2021,SS,12,142,-22
+"Happ, Ian",664023,Cubs,2021,CF,16,332,1
+"Happ, Ian",664023,Cubs,2021,LF,21,313,-28
+"Votto, Joey",458015,Reds,2021,1B,22,87,43
+"Suárez, Eugenio",553993,Reds,2021,3B,21,122,-38
+"Farmer, Kyle",571657,Reds,2021,SS,26,145,-23
+"Naquin, Tyler",571980,Reds,2021,CF,17,328,1
+"Castellanos, Nick",592206,Reds,2021,RF,20,294,27
+"Winker, Jesse",608385,Reds,2021,LF,20,304,-27
+"India, Jonathan",663697,Reds,2021,2B,23,149,-5
+"Blackmon, Charlie",453568,Rockies,2021,RF,30,302,28
+"Cron, C.J.",543068,Rockies,2021,1B,36,90,40
+"Story, Trevor",596115,Rockies,2021,SS,37,141,-21
+"Tapia, Raimel",606132,Rockies,2021,LF,20,296,-29
+"Hampson, Garrett",641658,Rockies,2021,CF,26,330,2
+"McMahon, Ryan",641857,Rockies,2021,3B,27,130,-38
+"Hilliard, Sam",656541,Rockies,2021,LF,14,310,-26
+"Rodgers, Brendan",663898,Rockies,2021,2B,29,152,-5
+"Welker, Colton",666213,Rockies,2021,3B,10,119,-38
+"Hernández, César",514917,White Sox,2021,2B,22,150,-6
+"Abreu, José",547989,White Sox,2021,1B,28,88,41
+"Goodwin, Brian",571718,White Sox,2021,RF,12,301,26
+"Anderson, Tim",641313,White Sox,2021,SS,16,149,-22
+"Jiménez, Eloy",650391,White Sox,2021,LF,12,311,-29
+"Moncada, Yoán",660162,White Sox,2021,3B,21,118,-38
+"Robert Jr., Luis",673357,White Sox,2021,CF,26,332,-4
+"Vaughn, Andrew",683734,White Sox,2021,LF,15,305,-28
+"Cabrera, Miguel",408234,Tigers,2021,1B,59,89,41
+"Grossman, Robbie",543257,Tigers,2021,RF,64,300,27
+"Grossman, Robbie",543257,Tigers,2021,LF,78,305,-27
+"Schoop, Jonathan",570731,Tigers,2021,2B,40,149,-4
+"Schoop, Jonathan",570731,Tigers,2021,1B,89,88,41
+"Goodrum, Niko",592348,Tigers,2021,SS,86,141,-20
+"Jones, JaCoby",592444,Tigers,2021,CF,37,332,1
+"Candelario, Jeimer",600869,Tigers,2021,3B,126,123,-37
+"Castro, Harold",605612,Tigers,2021,3B,20,119,-36
+"Castro, Harold",605612,Tigers,2021,SS,29,144,-21
+"Castro, Harold",605612,Tigers,2021,2B,19,146,-6
+"Haase, Eric",606992,Tigers,2021,LF,22,308,-27
+"Mazara, Nomar",608577,Tigers,2021,RF,55,299,27
+"Reyes, Victor",622682,Tigers,2021,CF,13,332,1
+"Reyes, Victor",622682,Tigers,2021,RF,27,303,26
+"Castro, Willi",650489,Tigers,2021,LF,13,297,-27
+"Castro, Willi",650489,Tigers,2021,2B,85,149,-5
+"Castro, Willi",650489,Tigers,2021,SS,13,142,-20
+"Hill, Derek",656537,Tigers,2021,CF,30,327,0
+"Cameron, Daz",663662,Tigers,2021,RF,12,301,26
+"Baddoo, Akil",668731,Tigers,2021,LF,38,301,-28
+"Baddoo, Akil",668731,Tigers,2021,CF,59,325,0
+"Short, Zack",670097,Tigers,2021,SS,29,145,-21
+"Paredes, Isaac",670623,Tigers,2021,3B,11,119,-36
+"Brantley, Michael",488726,Astros,2021,LF,52,297,-26
+"Gurriel, Yuli",493329,Astros,2021,1B,96,88,42
+"Altuve, Jose",514888,Astros,2021,2B,97,148,-5
+"García, Robel",596825,Astros,2021,SS,13,141,-20
+"Bregman, Alex",608324,Astros,2021,3B,50,116,-38
+"Correa, Carlos",621043,Astros,2021,SS,100,142,-23
+"Toro, Abraham",647351,Astros,2021,3B,16,120,-37
+"Díaz, Aledmys",649557,Astros,2021,3B,34,114,-38
+"Díaz, Aledmys",649557,Astros,2021,LF,14,309,-27
+"Tucker, Kyle",663656,Astros,2021,RF,91,293,28
+"Straw, Myles",664702,Astros,2021,CF,60,325,1
+"Alvarez, Yordan",670541,Astros,2021,LF,24,300,-28
+"Meyers, Jake",676694,Astros,2021,CF,26,320,1
+"McCormick, Chas",676801,Astros,2021,CF,24,323,-2
+"McCormick, Chas",676801,Astros,2021,RF,16,294,27
+"McCormick, Chas",676801,Astros,2021,LF,17,299,-27
+"Santana, Carlos",467793,Royals,2021,1B,62,88,41
+"Dyson, Jarrod",502481,Royals,2021,CF,11,328,1
+"Taylor, Michael A.",572191,Royals,2021,CF,65,322,0
+"Merrifield, Whit",593160,Royals,2021,2B,63,153,-4
+"Alberto, Hanser",593643,Royals,2021,3B,15,116,-38
+"Alberto, Hanser",593643,Royals,2021,SS,11,144,-22
+"Alberto, Hanser",593643,Royals,2021,2B,10,153,-7
+"Soler, Jorge",624585,Royals,2021,RF,31,296,29
+"Dozier, Hunter",641531,Royals,2021,3B,20,120,-39
+"Dozier, Hunter",641531,Royals,2021,RF,31,296,28
+"Dozier, Hunter",641531,Royals,2021,LF,14,306,-28
+"Gutiérrez, Kelvin",642721,Royals,2021,3B,35,122,-39
+"Benintendi, Andrew",643217,Royals,2021,LF,41,301,-27
+"Lopez, Nicky",670032,Royals,2021,SS,58,140,-23
+"Pujols, Albert",405395,Angels,2021,1B,11,90,40
+"Upton, Justin",457708,Angels,2021,LF,34,303,-25
+"Lagares, Juan",501571,Angels,2021,CF,25,327,3
+"Rendon, Anthony",543685,Angels,2021,3B,26,119,-36
+"Trout, Mike",545361,Angels,2021,CF,15,328,4
+"Iglesias, Jose",578428,Angels,2021,SS,49,146,-21
+"Ward, Taylor",621493,Angels,2021,RF,23,291,28
+"Fletcher, David",664058,Angels,2021,2B,47,152,-5
+"Walsh, Jared",665120,Angels,2021,1B,36,89,40
+"Walsh, Jared",665120,Angels,2021,RF,12,292,28
+"Marsh, Brandon",669016,Angels,2021,CF,11,326,2
+"Pujols, Albert",405395,Dodgers,2021,1B,49,89,41
+"Turner, Justin",457759,Dodgers,2021,3B,222,112,-38
+"Muncy, Max",571970,Dodgers,2021,2B,33,153,-4
+"Muncy, Max",571970,Dodgers,2021,1B,179,87,40
+"Pollock, AJ",572041,Dodgers,2021,CF,12,325,1
+"Pollock, AJ",572041,Dodgers,2021,LF,135,305,-27
+"Betts, Mookie",605141,Dodgers,2021,RF,152,286,27
+"Betts, Mookie",605141,Dodgers,2021,CF,34,320,0
+"Turner, Trea",607208,Dodgers,2021,2B,86,150,-5
+"Beaty, Matt",607461,Dodgers,2021,RF,13,291,27
+"Beaty, Matt",607461,Dodgers,2021,1B,24,89,40
+"Beaty, Matt",607461,Dodgers,2021,LF,30,304,-27
+"Seager, Corey",608369,Dodgers,2021,SS,170,145,-22
+"Taylor, Chris",621035,Dodgers,2021,CF,89,320,1
+"Taylor, Chris",621035,Dodgers,2021,3B,12,114,-38
+"Taylor, Chris",621035,Dodgers,2021,LF,43,307,-27
+"Taylor, Chris",621035,Dodgers,2021,SS,27,147,-21
+"Taylor, Chris",621035,Dodgers,2021,2B,51,153,-4
+"Rios, Edwin",621458,Dodgers,2021,3B,14,116,-37
+"Rios, Edwin",621458,Dodgers,2021,1B,10,87,42
+"Bellinger, Cody",641355,Dodgers,2021,CF,117,318,1
+"McKinney, Billy",641856,Dodgers,2021,RF,31,293,27
+"Neuse, Sheldon",641914,Dodgers,2021,2B,13,153,-4
+"McKinstry, Zach",656716,Dodgers,2021,RF,27,282,27
+"McKinstry, Zach",656716,Dodgers,2021,2B,19,152,-2
+"McKinstry, Zach",656716,Dodgers,2021,LF,10,303,-27
+"Lux, Gavin",666158,Dodgers,2021,LF,18,302,-27
+"Lux, Gavin",666158,Dodgers,2021,2B,55,153,-5
+"Lux, Gavin",666158,Dodgers,2021,SS,70,148,-21
+"Lux, Gavin",666158,Dodgers,2021,CF,10,324,-1
+"Raley, Luke",670042,Dodgers,2021,RF,18,288,27
+"Raley, Luke",670042,Dodgers,2021,LF,26,306,-26
+"Rojas, Miguel",500743,Marlins,2021,SS,102,141,-20
+"Marte, Starling",516782,Marlins,2021,CF,51,325,-1
+"Aguilar, Jesús",542583,Marlins,2021,1B,77,89,41
+"Berti, Jon",542932,Marlins,2021,2B,18,148,-5
+"Berti, Jon",542932,Marlins,2021,3B,18,116,-37
+"Dickerson, Corey",572816,Marlins,2021,LF,31,300,-26
+"Duvall, Adam",594807,Marlins,2021,RF,55,289,25
+"Alfaro, Jorge",595751,Marlins,2021,LF,13,303,-27
+"Anderson, Brian",605119,Marlins,2021,3B,64,121,-37
+"Panik, Joe",605412,Marlins,2021,2B,11,147,-6
+"Brinson, Lewis",621446,Marlins,2021,CF,21,320,0
+"Brinson, Lewis",621446,Marlins,2021,LF,38,301,-27
+"Sierra, Magneuris",642423,Marlins,2021,CF,39,326,0
+"Cooper, Garrett",643265,Marlins,2021,RF,14,291,25
+"Cooper, Garrett",643265,Marlins,2021,1B,18,89,41
+"Díaz, Lewin",650331,Marlins,2021,1B,25,89,40
+"De La Cruz, Bryan",650559,Marlins,2021,LF,12,298,-27
+"De La Cruz, Bryan",650559,Marlins,2021,CF,14,318,0
+"De La Cruz, Bryan",650559,Marlins,2021,RF,29,294,26
+"Díaz, Isan",656371,Marlins,2021,3B,25,120,-37
+"Díaz, Isan",656371,Marlins,2021,2B,29,144,-6
+"Alvarez, Eddy",657193,Marlins,2021,3B,12,116,-37
+"Sánchez, Jesús",660821,Marlins,2021,LF,15,305,-27
+"Sánchez, Jesús",660821,Marlins,2021,RF,31,289,25
+"Chisholm Jr., Jazz",665862,Marlins,2021,SS,21,140,-20
+"Chisholm Jr., Jazz",665862,Marlins,2021,2B,70,146,-5
+"Cain, Lorenzo",456715,Brewers,2021,CF,10,329,-2
+"García, Avisaíl",541645,Brewers,2021,RF,18,301,26
+"Wong, Kolten",543939,Brewers,2021,2B,17,152,-4
+"Yelich, Christian",592885,Brewers,2021,LF,18,306,-29
+"Bradley Jr., Jackie",598265,Brewers,2021,CF,10,332,0
+"Adames, Willy",642715,Brewers,2021,SS,12,146,-23
+"Urías, Luis",649966,Brewers,2021,SS,10,144,-23
+"Donaldson, Josh",518626,Twins,2021,3B,41,118,-40
+"Astudillo, Willians",553902,Twins,2021,1B,12,88,41
+"Astudillo, Willians",553902,Twins,2021,3B,11,114,-40
+"Simmons, Andrelton",592743,Twins,2021,SS,64,145,-23
+"Polanco, Jorge",593871,Twins,2021,SS,17,148,-22
+"Polanco, Jorge",593871,Twins,2021,2B,61,151,-5
+"Sanó, Miguel",593934,Twins,2021,1B,54,88,41
+"Cave, Jake",595909,Twins,2021,LF,13,305,-27
+"Cave, Jake",595909,Twins,2021,CF,11,334,-1
+"Kepler, Max",596146,Twins,2021,RF,49,300,28
+"Refsnyder, Rob",608701,Twins,2021,CF,12,327,0
+"Refsnyder, Rob",608701,Twins,2021,LF,10,298,-27
+"Buxton, Byron",621439,Twins,2021,CF,33,333,0
+"Gordon, Nick",624503,Twins,2021,2B,11,149,-4
+"Gordon, Nick",624503,Twins,2021,CF,16,336,-2
+"Arraez, Luis",650333,Twins,2021,3B,32,116,-40
+"Arraez, Luis",650333,Twins,2021,2B,16,149,-6
+"Arraez, Luis",650333,Twins,2021,LF,13,311,-27
+"Larnach, Trevor",663616,Twins,2021,LF,31,302,-27
+"Celestino, Gilberto",665482,Twins,2021,CF,10,334,-2
+"Kirilloff, Alex",666135,Twins,2021,RF,13,296,28
+"Kirilloff, Alex",666135,Twins,2021,1B,23,88,41
+"Maybin, Cameron",457727,Mets,2021,CF,11,334,2
+"Villar, Jonathan",542340,Mets,2021,SS,15,144,-21
+"Villar, Jonathan",542340,Mets,2021,3B,118,113,-37
+"McCann, James",543510,Mets,2021,1B,15,91,39
+"Almora Jr., Albert",546991,Mets,2021,CF,16,320,0
+"Williams, Mason",592863,Mets,2021,CF,13,334,1
+"Báez, Javier",595879,Mets,2021,SS,11,143,-22
+"Báez, Javier",595879,Mets,2021,2B,22,153,-6
+"Lindor, Francisco",596019,Mets,2021,SS,148,144,-23
+"Davis, J.D.",605204,Mets,2021,3B,30,120,-38
+"Peraza, José",606299,Mets,2021,2B,56,146,-4
+"Nimmo, Brandon",607043,Mets,2021,CF,64,331,2
+"Pillar, Kevin",607680,Mets,2021,CF,72,335,1
+"Pillar, Kevin",607680,Mets,2021,LF,22,304,-27
+"Pillar, Kevin",607680,Mets,2021,RF,19,305,28
+"Alonso, Pete",624413,Mets,2021,1B,155,88,41
+"Conforto, Michael",624424,Mets,2021,RF,114,298,27
+"Fargas, Johneshwy",641561,Mets,2021,CF,11,334,0
+"Guillorme, Luis",641645,Mets,2021,SS,13,141,-21
+"Guillorme, Luis",641645,Mets,2021,2B,19,153,-3
+"Guillorme, Luis",641645,Mets,2021,3B,24,114,-37
+"McKinney, Billy",641856,Mets,2021,RF,30,305,28
+"McKinney, Billy",641856,Mets,2021,LF,14,308,-28
+"Smith, Dominic",642086,Mets,2021,1B,15,86,40
+"Smith, Dominic",642086,Mets,2021,LF,121,307,-28
+"McNeil, Jeff",643446,Mets,2021,2B,76,145,-4
+"McNeil, Jeff",643446,Mets,2021,LF,20,308,-29
+"Lee, Khalil",666137,Mets,2021,RF,11,304,28
+"Gardner, Brett",458731,Yankees,2021,LF,12,307,-25
+"Gardner, Brett",458731,Yankees,2021,CF,24,325,0
+"LeMahieu, DJ",518934,Yankees,2021,1B,17,91,41
+"LeMahieu, DJ",518934,Yankees,2021,2B,15,151,-6
+"Hicks, Aaron",543305,Yankees,2021,CF,13,325,1
+"Urshela, Gio",570482,Yankees,2021,3B,31,120,-39
+"Voit, Luke",572228,Yankees,2021,1B,12,89,40
+"Judge, Aaron",592450,Yankees,2021,RF,30,290,26
+"Odor, Rougned",596059,Yankees,2021,2B,27,149,-6
+"Andujar, Miguel",609280,Yankees,2021,LF,18,303,-26
+"Frazier, Clint",640449,Yankees,2021,RF,11,289,27
+"Torres, Gleyber",650402,Yankees,2021,SS,39,145,-25
+"McCutchen, Andrew",457705,Phillies,2021,LF,29,299,-27
+"Segura, Jean",516416,Phillies,2021,2B,28,152,-7
+"Miller, Brad",543543,Phillies,2021,1B,14,91,38
+"Gregorius, Didi",544369,Phillies,2021,SS,24,142,-22
+"Herrera, Odúbel",546318,Phillies,2021,CF,18,332,0
+"Harper, Bryce",547180,Phillies,2021,RF,30,298,27
+"Hoskins, Rhys",656555,Phillies,2021,1B,21,89,39
+"Bohm, Alec",664761,Phillies,2021,3B,24,122,-37
+"Polanco, Gregory",570256,Pirates,2021,RF,34,296,28
+"González, Erik",570481,Pirates,2021,3B,16,124,-37
+"Gamel, Ben",592325,Pirates,2021,LF,11,302,-28
+"Moran, Colin",592567,Pirates,2021,1B,25,88,43
+"Newman, Kevin",621028,Pirates,2021,SS,37,143,-20
+"Frazier, Adam",624428,Pirates,2021,2B,37,151,-5
+"Hayes, Ke'Bryan",663647,Pirates,2021,3B,15,125,-36
+"Tom, Ka'ai",664789,Pirates,2021,LF,11,307,-28
+"Reynolds, Bryan",668804,Pirates,2021,LF,10,309,-27
+"Reynolds, Bryan",668804,Pirates,2021,CF,34,328,-1
+"Pham, Tommy",502054,Padres,2021,LF,16,301,-25
+"Hosmer, Eric",543333,Padres,2021,1B,20,86,40
+"Myers, Wil",571976,Padres,2021,RF,21,318,26
+"Machado, Manny",592518,Padres,2021,3B,27,124,-38
+"Frazier, Adam",624428,Padres,2021,2B,20,151,-6
+"Grisham, Trent",663757,Padres,2021,CF,24,321,1
+"Tatis Jr., Fernando",665487,Padres,2021,SS,20,142,-23
+"Longoria, Evan",446334,Giants,2021,3B,14,120,-36
+"Solano, Donovan",456781,Giants,2021,2B,19,151,-1
+"Crawford, Brandon",543063,Giants,2021,SS,17,145,-20
+"Dickerson, Alex",543105,Giants,2021,LF,12,301,-27
+"Yastrzemski, Mike",573262,Giants,2021,RF,17,290,28
+"Duggar, Steven",621453,Giants,2021,CF,10,324,-1
+"Goldschmidt, Paul",502671,Cardinals,2021,1B,38,88,41
+"Arenado, Nolan",571448,Cardinals,2021,3B,39,124,-37
+"O'Neill, Tyler",641933,Cardinals,2021,LF,34,302,-29
+"DeJong, Paul",657557,Cardinals,2021,SS,31,142,-20
+"Bader, Harrison",664056,Cardinals,2021,CF,24,331,-2
+"Carlson, Dylan",666185,Cardinals,2021,RF,26,301,27
+"Carlson, Dylan",666185,Cardinals,2021,CF,14,327,0
+"Edman, Tommy",669242,Cardinals,2021,2B,31,152,-4
+"Kiermaier, Kevin",595281,Rays,2021,CF,91,325,1
+"Choi, Ji Man",596847,Rays,2021,1B,51,88,40
+"Phillips, Brett",621433,Rays,2021,CF,33,311,0
+"Phillips, Brett",621433,Rays,2021,RF,26,291,24
+"Wendle, Joey",621563,Rays,2021,3B,75,117,-38
+"Wendle, Joey",621563,Rays,2021,SS,17,143,-23
+"Margot, Manuel",622534,Rays,2021,CF,15,321,-1
+"Margot, Manuel",622534,Rays,2021,RF,68,291,25
+"Meadows, Austin",640457,Rays,2021,LF,70,307,-27
+"Adames, Willy",642715,Rays,2021,SS,36,142,-21
+"Díaz, Yandy",650490,Rays,2021,1B,66,87,42
+"Díaz, Yandy",650490,Rays,2021,3B,38,112,-38
+"Tsutsugo, Yoshi",660294,Rays,2021,1B,11,88,41
+"Lowe, Brandon",664040,Rays,2021,2B,114,147,-5
+"Arozarena, Randy",668227,Rays,2021,LF,60,303,-27
+"Arozarena, Randy",668227,Rays,2021,RF,39,294,27
+"Brosseau, Mike",670712,Rays,2021,2B,15,153,-5
+"Brosseau, Mike",670712,Rays,2021,3B,15,117,-38
+"Walls, Taylor",670764,Rays,2021,SS,31,143,-22
+"Franco, Wander",677551,Rays,2021,SS,56,143,-23
+"Culberson, Charlie",518586,Rangers,2021,3B,25,121,-38
+"Holt, Brock",571788,Rangers,2021,3B,22,123,-39
+"Gallo, Joey",608336,Rangers,2021,RF,33,294,28
+"Dahl, David",621311,Rangers,2021,LF,14,292,-26
+"Calhoun, Willie",641432,Rangers,2021,LF,11,292,-26
+"White, Eli",642201,Rangers,2021,LF,13,303,-27
+"Kiner-Falefa, Isiah",643396,Rangers,2021,SS,51,140,-22
+"Lowe, Nathaniel",663993,Rangers,2021,1B,45,89,40
+"Taveras, Leody",665750,Rangers,2021,CF,18,320,1
+"García, Adolis",666969,Rangers,2021,CF,28,330,-1
+"García, Adolis",666969,Rangers,2021,RF,13,294,26
+"Solak, Nick",669256,Rangers,2021,2B,49,148,-4
+"Semien, Marcus",543760,Blue Jays,2021,2B,62,152,-6
+"Semien, Marcus",543760,Blue Jays,2021,SS,12,143,-21
+"Springer, George",543807,Blue Jays,2021,CF,23,323,2
+"Grichuk, Randal",545341,Blue Jays,2021,CF,40,319,2
+"Grichuk, Randal",545341,Blue Jays,2021,RF,19,286,29
+"Dickerson, Corey",572816,Blue Jays,2021,LF,15,307,-27
+"Valera, Breyvic",591971,Blue Jays,2021,3B,15,115,-37
+"Hernández, Teoscar",606192,Blue Jays,2021,LF,14,298,-26
+"Hernández, Teoscar",606192,Blue Jays,2021,RF,51,293,28
+"Biggio, Cavan",624415,Blue Jays,2021,3B,20,119,-37
+"Guerrero Jr., Vladimir",665489,Blue Jays,2021,1B,69,86,42
+"Bichette, Bo",666182,Blue Jays,2021,SS,63,144,-22
+"Gurriel Jr., Lourdes",666971,Blue Jays,2021,LF,44,308,-27
+"Espinal, Santiago",669289,Blue Jays,2021,3B,33,118,-37
+"Escobar, Alcides",444876,Nationals,2021,SS,34,142,-22
+"Zimmerman, Ryan",475582,Nationals,2021,1B,13,86,42
+"Castro, Starlin",516770,Nationals,2021,3B,12,118,-38
+"Bell, Josh",605137,Nationals,2021,1B,37,88,42
+"Turner, Trea",607208,Nationals,2021,SS,13,145,-21
+"Hernandez, Yadiel",628450,Nationals,2021,LF,29,308,-29
+"Robles, Victor",645302,Nationals,2021,CF,29,332,-2
+"Schwarber, Kyle",656941,Nationals,2021,LF,10,314,-27
+"Thomas, Lane",657041,Nationals,2021,CF,18,332,-2
+"Soto, Juan",665742,Nationals,2021,RF,42,294,27
+"Kieboom, Carter",666198,Nationals,2021,3B,36,119,-37
+"García Jr., Luis",671277,Nationals,2021,2B,32,149,-5
+"Soderstrom, Tyler",691016,Athletics,2025,LF,12,303,-29
+"Kurtz, Nick",701762,Athletics,2025,1B,12,86,40
+"Wilson, Jacob",805779,Athletics,2025,SS,12,144,-21
+"Suárez, Eugenio",553993,D-backs,2025,3B,10,124,-37
+"Marte, Ketel",606466,D-backs,2025,2B,14,150,4
+"Gurriel Jr., Lourdes",666971,D-backs,2025,LF,16,306,-28
+"Perdomo, Geraldo",672695,D-backs,2025,SS,26,142,-23
+"Alexander, Blaze",677942,D-backs,2025,3B,11,116,-38
+"Thomas, Alek",677950,D-backs,2025,CF,21,320,1
+"Carroll, Corbin",682998,D-backs,2025,RF,20,293,27
+"Story, Trevor",596115,Red Sox,2025,SS,29,143,-21
+"Bregman, Alex",608324,Red Sox,2025,3B,25,120,-37
+"Gonzalez, Romy",663853,Red Sox,2025,2B,14,151,3
+"Abreu, Wilyer",677800,Red Sox,2025,RF,17,283,29
+"Rafaela, Ceddanne",678882,Red Sox,2025,CF,28,320,3
+"Duran, Jarren",680776,Red Sox,2025,LF,27,297,-27
+"Swanson, Dansby",621020,Cubs,2025,SS,35,148,-20
+"Hoerner, Nico",663538,Cubs,2025,2B,34,154,3
+"Tucker, Kyle",663656,Cubs,2025,RF,23,301,26
+"Happ, Ian",664023,Cubs,2025,LF,34,312,-30
+"Busch, Michael",683737,Cubs,2025,1B,31,89,42
+"Crow-Armstrong, Pete",691718,Cubs,2025,CF,35,330,-1
+"Shaw, Matt",807713,Cubs,2025,3B,29,119,-38
+"Candelario, Jeimer",600869,Reds,2025,3B,19,127,-38
+"Candelario, Jeimer",600869,Reds,2025,1B,22,87,42
+"Fraley, Jake",641584,Reds,2025,RF,87,286,28
+"Joe, Connor",656582,Reds,2025,RF,14,294,28
+"Hayes, Ke'Bryan",663647,Reds,2025,3B,31,119,-37
+"Lux, Gavin",666158,Reds,2025,LF,92,307,-26
+"Benson, Will",666181,Reds,2025,LF,27,302,-26
+"Benson, Will",666181,Reds,2025,CF,11,319,5
+"Benson, Will",666181,Reds,2025,RF,39,289,28
+"Steer, Spencer",668715,Reds,2025,1B,161,87,41
+"Espinal, Santiago",669289,Reds,2025,3B,103,123,-37
+"Espinal, Santiago",669289,Reds,2025,2B,26,151,3
+"Espinal, Santiago",669289,Reds,2025,RF,13,286,30
+"Hays, Austin",669720,Reds,2025,LF,60,307,-25
+"Friedl, TJ",670770,Reds,2025,CF,203,324,2
+"Hinds, Rece",677956,Reds,2025,RF,16,287,28
+"McLain, Matt",680574,Reds,2025,2B,203,151,3
+"Marte, Noelvi",682622,Reds,2025,3B,60,122,-38
+"Marte, Noelvi",682622,Reds,2025,RF,34,290,30
+"De La Cruz, Elly",682829,Reds,2025,SS,222,146,-18
+"Encarnacion-Strand, Christian",687952,Reds,2025,3B,12,124,-39
+"Encarnacion-Strand, Christian",687952,Reds,2025,1B,34,89,41
+"Dunn, Blake",694362,Reds,2025,CF,10,322,2
+"Dunn, Blake",694362,Reds,2025,RF,26,289,28
+"Santana, Carlos",467793,Guardians,2025,1B,58,88,39
+"Ramírez, José",608070,Guardians,2025,3B,72,124,-36
+"Thomas, Lane",657041,Guardians,2025,CF,15,323,1
+"Jones, Nolan",666134,Guardians,2025,RF,46,296,27
+"Wilson, Will",669717,Guardians,2025,2B,16,153,2
+"Rodríguez, Johnathan",671286,Guardians,2025,RF,10,298,26
+"Arias, Gabriel",672356,Guardians,2025,SS,41,144,-19
+"Arias, Gabriel",672356,Guardians,2025,2B,17,151,3
+"Rocchio, Brayan",677587,Guardians,2025,SS,42,143,-20
+"Noel, Jhonkensy",678877,Guardians,2025,RF,19,296,29
+"Kwan, Steven",680757,Guardians,2025,LF,69,305,-26
+"Schneemann, Daniel",682177,Guardians,2025,LF,10,314,-27
+"Schneemann, Daniel",682177,Guardians,2025,2B,45,152,3
+"Martínez, Angel",682657,Guardians,2025,CF,63,320,1
+"Manzardo, Kyle",700932,Guardians,2025,1B,21,89,39
+"Tovar, Ezequiel",678662,Rockies,2025,SS,12,143,-19
+"Beck, Jordan",687597,Rockies,2025,LF,11,299,-29
+"Torres, Gleyber",650402,Tigers,2025,2B,33,153,2
+"McKinstry, Zach",656716,Tigers,2025,3B,16,121,-39
+"Pérez, Wenceel",672761,Tigers,2025,RF,13,298,24
+"Meadows, Parker",678009,Tigers,2025,CF,10,327,-3
+"Torkelson, Spencer",679529,Tigers,2025,1B,32,87,41
+"Carpenter, Kerry",681481,Tigers,2025,RF,14,293,23
+"Greene, Riley",682985,Tigers,2025,LF,21,304,-29
+"Sweeney, Trey",700242,Tigers,2025,SS,22,147,-20
+"Altuve, Jose",514888,Astros,2025,2B,43,149,3
+"Altuve, Jose",514888,Astros,2025,LF,30,309,-28
+"Walker, Christian",572233,Astros,2025,1B,97,87,41
+"Urías, Ramón",602104,Astros,2025,3B,11,121,-37
+"Correa, Carlos",621043,Astros,2025,3B,18,121,-37
+"Dubón, Mauricio",643289,Astros,2025,SS,28,142,-20
+"Dubón, Mauricio",643289,Astros,2025,2B,14,148,3
+"Dubón, Mauricio",643289,Astros,2025,3B,15,121,-39
+"Sánchez, Jesús",660821,Astros,2025,LF,15,312,-26
+"Rodgers, Brendan",663898,Astros,2025,2B,11,152,3
+"Peña, Jeremy",665161,Astros,2025,SS,50,144,-19
+"Trammell, Taylor",666211,Astros,2025,CF,21,335,-1
+"Trammell, Taylor",666211,Astros,2025,LF,17,310,-28
+"Hummel, Cooper",669450,Astros,2025,LF,22,312,-27
+"Short, Zack",670097,Astros,2025,SS,22,146,-20
+"Alvarez, Yordan",670541,Astros,2025,LF,10,308,-26
+"Paredes, Isaac",670623,Astros,2025,3B,57,123,-38
+"Meyers, Jake",676694,Astros,2025,CF,49,326,1
+"McCormick, Chas",676801,Astros,2025,CF,20,329,0
+"Matthews, Brice",694728,Astros,2025,2B,29,150,3
+"Smith, Cam",701358,Astros,2025,RF,90,301,26
+"Trout, Mike",545361,Angels,2025,RF,50,292,28
+"Newman, Kevin",621028,Angels,2025,SS,23,143,-21
+"Newman, Kevin",621028,Angels,2025,3B,35,114,-38
+"Taylor, Chris",621035,Angels,2025,2B,10,152,3
+"Taylor, Chris",621035,Angels,2025,RF,12,296,26
+"Ward, Taylor",621493,Angels,2025,LF,301,305,-27
+"Soler, Jorge",624585,Angels,2025,RF,66,297,26
+"Anderson, Tim",641313,Angels,2025,SS,24,142,-21
+"Anderson, Tim",641313,Angels,2025,2B,31,151,2
+"Rengifo, Luis",650859,Angels,2025,3B,125,117,-38
+"Rengifo, Luis",650859,Angels,2025,2B,145,150,2
+"Moncada, Yoán",660162,Angels,2025,3B,133,117,-38
+"Wade Jr., LaMonte",664774,Angels,2025,RF,28,294,26
+"Adell, Jo",666176,Angels,2025,CF,179,325,0
+"Adell, Jo",666176,Angels,2025,RF,104,295,27
+"Teodosio, Bryce",669326,Angels,2025,CF,85,325,0
+"Campero, Gustavo",672569,Angels,2025,RF,45,294,27
+"Peraza, Oswald",672724,Angels,2025,3B,14,118,-38
+"Peraza, Oswald",672724,Angels,2025,1B,22,94,40
+"Stevens, Chad",677060,Angels,2025,3B,10,121,-40
+"Paris, Kyren",677347,Angels,2025,2B,39,150,2
+"Paris, Kyren",677347,Angels,2025,CF,34,323,0
+"Lugo, Matthew",683090,Angels,2025,RF,11,297,26
+"Lugo, Matthew",683090,Angels,2025,CF,14,320,1
+"Neto, Zach",687263,Angels,2025,SS,246,143,-21
+"Guzman, Denzer",694203,Angels,2025,SS,22,144,-20
+"Kavadas, Niko",694359,Angels,2025,1B,17,88,40
+"Schanuel, Nolan",694384,Angels,2025,1B,263,87,42
+"Moore, Christian",695681,Angels,2025,2B,82,148,2
+"Freeman, Freddie",518692,Dodgers,2025,1B,63,86,40
+"Hernández, Enrique",571771,Dodgers,2025,2B,17,152,2
+"Muncy, Max",571970,Dodgers,2025,3B,63,121,-37
+"Betts, Mookie",605141,Dodgers,2025,SS,64,144,-21
+"Hernández, Teoscar",606192,Dodgers,2025,RF,57,291,26
+"Conforto, Michael",624424,Dodgers,2025,LF,54,300,-28
+"Edman, Tommy",669242,Dodgers,2025,CF,16,321,-1
+"Edman, Tommy",669242,Dodgers,2025,2B,16,153,3
+"Pages, Andy",681624,Dodgers,2025,LF,13,306,-29
+"Pages, Andy",681624,Dodgers,2025,RF,15,294,26
+"Pages, Andy",681624,Dodgers,2025,CF,43,321,-2
+"Kim, Hyeseong",808975,Dodgers,2025,2B,27,152,2
+"Hoskins, Rhys",656555,Brewers,2025,1B,10,90,38
+"Turang, Brice",668930,Brewers,2025,2B,13,154,4
+"Frelick, Sal",686217,Brewers,2025,RF,12,306,27
+"Correa, Carlos",621043,Twins,2025,SS,23,147,-21
+"Buxton, Byron",621439,Twins,2025,CF,40,328,2
+"Castro, Willi",650489,Twins,2025,RF,10,293,29
+"Larnach, Trevor",663616,Twins,2025,RF,10,291,31
+"France, Ty",664034,Twins,2025,1B,21,88,42
+"Bader, Harrison",664056,Twins,2025,LF,13,302,-27
+"Clemens, Kody",665019,Twins,2025,1B,36,91,40
+"Julien, Edouard",666397,Twins,2025,1B,11,88,41
+"Martin, Austin",668885,Twins,2025,LF,32,301,-26
+"Lewis, Royce",668904,Twins,2025,3B,51,120,-36
+"Wallner, Matt",670242,Twins,2025,RF,35,294,31
+"Outman, James",681546,Twins,2025,CF,17,325,2
+"Lee, Brooks",686797,Twins,2025,2B,18,153,2
+"Lee, Brooks",686797,Twins,2025,SS,40,148,-20
+"Keaschall, Luke",807712,Twins,2025,2B,43,153,2
+"Chisholm Jr., Jazz",665862,Yankees,2025,2B,10,153,3
+"Díaz, Yandy",650490,Rays,2025,1B,11,87,41
+"Gray, Tristan",656484,Rays,2025,2B,12,150,3
+"Mangum, Jake",663968,Rays,2025,CF,13,325,0
+"Mangum, Jake",663968,Rays,2025,LF,26,305,-27
+"Lowe, Brandon",664040,Rays,2025,2B,44,150,3
+"Aranda, Jonathan",666018,Rays,2025,1B,35,88,40
+"Lowe, Josh",666139,Rays,2025,RF,47,300,27
+"Morel, Christopher",666624,Rays,2025,LF,17,304,-27
+"Misner, Kameron",670224,Rays,2025,CF,17,331,1
+"Walls, Taylor",670764,Rays,2025,SS,42,145,-23
+"Seymour, Bob",676044,Rays,2025,1B,16,87,42
+"Caminero, Junior",691406,Rays,2025,3B,61,118,-39
+"Williams, Carson",700246,Rays,2025,SS,14,144,-22
+"Simpson, Chandler",802415,Rays,2025,CF,31,327,1
+"Simpson, Chandler",802415,Rays,2025,LF,15,306,-26
+"Semien, Marcus",543760,Rangers,2025,2B,13,151,3
+"García, Adolis",666969,Rangers,2025,RF,14,296,26
+"Burger, Jake",669394,Rangers,2025,1B,11,87,41
+"Jung, Josh",673962,Rangers,2025,3B,11,117,-39
+"Straw, Myles",664702,Blue Jays,2025,CF,11,325,-3
+"Guerrero Jr., Vladimir",665489,Blue Jays,2025,1B,12,87,41
+"Bleday, JJ",668709,Athletics,2024,CF,10,320,-2
+"Gelof, Zack",680869,Athletics,2024,2B,11,153,4
+"Urshela, Gio",570482,Braves,2024,3B,22,118,-38
+"Merrifield, Whit",593160,Braves,2024,2B,47,152,3
+"Duvall, Adam",594807,Braves,2024,LF,10,300,-25
+"Arcia, Orlando",606115,Braves,2024,SS,53,145,-19
+"Olson, Matt",621566,Braves,2024,1B,53,89,38
+"Soler, Jorge",624585,Braves,2024,RF,25,296,27
+"Laureano, Ramón",657656,Braves,2024,LF,13,297,-26
+"Laureano, Ramón",657656,Braves,2024,RF,22,293,27
+"Riley, Austin",663586,Braves,2024,3B,26,114,-38
+"Harris II, Michael",671739,Braves,2024,CF,33,320,0
+"Kelenic, Jarred",672284,Braves,2024,CF,14,320,0
+"Kelenic, Jarred",672284,Braves,2024,LF,20,297,-26
+"Suárez, Eugenio",553993,D-backs,2024,3B,10,121,-37
+"Urías, Ramón",602104,Orioles,2024,3B,10,125,-39
+"Mateo, Jorge",622761,Orioles,2024,2B,12,155,3
+"Santander, Anthony",623993,Orioles,2024,RF,20,302,29
+"Mullins, Cedric",656775,Orioles,2024,CF,20,326,1
+"Mountcastle, Ryan",663624,Orioles,2024,1B,19,90,41
+"Hays, Austin",669720,Orioles,2024,LF,11,307,-27
+"Westburg, Jordan",676059,Orioles,2024,3B,14,123,-38
+"Cowser, Colton",681297,Orioles,2024,LF,10,309,-27
+"Henderson, Gunnar",683002,Orioles,2024,SS,25,147,-20
+"Smith, Dominic",642086,Red Sox,2024,1B,13,89,38
+"Devers, Rafael",646240,Red Sox,2024,3B,20,117,-36
+"Abreu, Wilyer",677800,Red Sox,2024,RF,18,295,29
+"Rafaela, Ceddanne",678882,Red Sox,2024,CF,12,324,2
+"Rafaela, Ceddanne",678882,Red Sox,2024,SS,10,145,-19
+"Duran, Jarren",680776,Red Sox,2024,LF,12,298,-28
+"Duran, Jarren",680776,Red Sox,2024,CF,12,329,2
+"Grissom, Vaughn",687093,Red Sox,2024,2B,14,152,3
+"Swanson, Dansby",621020,Cubs,2024,SS,28,146,-21
+"Hoerner, Nico",663538,Cubs,2024,2B,28,154,2
+"Happ, Ian",664023,Cubs,2024,LF,27,305,-29
+"Morel, Christopher",666624,Cubs,2024,3B,16,120,-37
+"Suzuki, Seiya",673548,Cubs,2024,RF,22,291,28
+"Busch, Michael",683737,Cubs,2024,1B,25,88,41
+"Crow-Armstrong, Pete",691718,Cubs,2024,CF,20,331,-1
+"Candelario, Jeimer",600869,Reds,2024,3B,25,124,-37
+"Fraley, Jake",641584,Reds,2024,RF,11,287,28
+"Fairchild, Stuart",656413,Reds,2024,CF,13,321,2
+"Fairchild, Stuart",656413,Reds,2024,RF,13,292,28
+"India, Jonathan",663697,Reds,2024,2B,14,149,3
+"Benson, Will",666181,Reds,2024,RF,12,289,29
+"Benson, Will",666181,Reds,2024,CF,14,321,1
+"Steer, Spencer",668715,Reds,2024,LF,34,300,-26
+"Steer, Spencer",668715,Reds,2024,1B,13,86,42
+"Espinal, Santiago",669289,Reds,2024,2B,34,150,2
+"Thompson, Bubba",669352,Reds,2024,CF,10,319,1
+"Marte, Noelvi",682622,Reds,2024,3B,16,121,-38
+"De La Cruz, Elly",682829,Reds,2024,SS,49,144,-20
+"Encarnacion-Strand, Christian",687952,Reds,2024,1B,24,88,41
+"Ramírez, José",608070,Guardians,2024,3B,20,129,-38
+"Naylor, Josh",647304,Guardians,2024,1B,27,89,38
+"Giménez, Andrés",665926,Guardians,2024,2B,30,153,3
+"Freeman, Tyler",671289,Guardians,2024,CF,19,321,1
+"Rocchio, Brayan",677587,Guardians,2024,SS,29,144,-22
+"Noel, Jhonkensy",678877,Guardians,2024,RF,12,306,28
+"Kwan, Steven",680757,Guardians,2024,LF,27,301,-25
+"Brennan, Will",686823,Guardians,2024,RF,13,300,25
+"Pham, Tommy",502054,White Sox,2024,RF,25,293,30
+"Benintendi, Andrew",643217,White Sox,2024,LF,18,302,-27
+"DeJong, Paul",657557,White Sox,2024,SS,27,145,-19
+"Mendick, Danny",664901,White Sox,2024,2B,21,149,2
+"Julks, Corey",667452,White Sox,2024,LF,15,298,-28
+"Lopez, Nicky",670032,White Sox,2024,2B,12,153,2
+"Sosa, Lenyn",672820,White Sox,2024,3B,31,118,-36
+"Robert Jr., Luis",673357,White Sox,2024,CF,29,325,2
+"Vaughn, Andrew",683734,White Sox,2024,1B,27,87,40
+"Urshela, Gio",570482,Tigers,2024,3B,14,115,-36
+"Báez, Javier",595879,Tigers,2024,SS,20,142,-20
+"Vierling, Matt",663837,Tigers,2024,3B,11,117,-37
+"Pérez, Wenceel",672761,Tigers,2024,RF,15,293,25
+"Meadows, Parker",678009,Tigers,2024,CF,16,328,-1
+"Torkelson, Spencer",679529,Tigers,2024,1B,22,88,41
+"Greene, Riley",682985,Tigers,2024,LF,24,303,-25
+"Keith, Colt",690993,Tigers,2024,2B,27,148,3
+"Altuve, Jose",514888,Astros,2024,2B,159,149,2
+"Heyward, Jason",518792,Astros,2024,RF,12,292,28
+"Abreu, José",547989,Astros,2024,1B,36,88,41
+"Singleton, Jon",572138,Astros,2024,1B,84,88,41
+"Gamel, Ben",592325,Astros,2024,RF,11,298,27
+"Bregman, Alex",608324,Astros,2024,3B,136,116,-37
+"Dubón, Mauricio",643289,Astros,2024,CF,13,320,-1
+"Dubón, Mauricio",643289,Astros,2024,RF,12,297,27
+"Dubón, Mauricio",643289,Astros,2024,1B,10,87,42
+"Dubón, Mauricio",643289,Astros,2024,3B,17,121,-37
+"Dubón, Mauricio",643289,Astros,2024,LF,50,302,-26
+"Cabbage, Trey",663550,Astros,2024,RF,17,299,27
+"Tucker, Kyle",663656,Astros,2024,RF,54,294,27
+"Peña, Jeremy",665161,Astros,2024,SS,156,144,-18
+"Alvarez, Yordan",670541,Astros,2024,LF,48,304,-26
+"Diaz, Yainer",673237,Astros,2024,1B,14,87,42
+"Meyers, Jake",676694,Astros,2024,CF,133,322,1
+"McCormick, Chas",676801,Astros,2024,RF,41,299,27
+"McCormick, Chas",676801,Astros,2024,CF,10,332,0
+"McCormick, Chas",676801,Astros,2024,LF,37,303,-27
+"Adrianza, Ehire",501303,Angels,2024,3B,14,118,-35
+"Rendon, Anthony",543685,Angels,2024,3B,61,119,-37
+"Trout, Mike",545361,Angels,2024,CF,26,326,1
+"Drury, Brandon",592273,Angels,2024,1B,10,85,42
+"Drury, Brandon",592273,Angels,2024,3B,25,121,-37
+"Drury, Brandon",592273,Angels,2024,2B,51,150,3
+"Sanó, Miguel",593934,Angels,2024,3B,17,123,-36
+"López, Jack",605346,Angels,2024,SS,10,145,-20
+"López, Jack",605346,Angels,2024,2B,28,153,2
+"Pillar, Kevin",607680,Angels,2024,RF,15,292,27
+"Pillar, Kevin",607680,Angels,2024,CF,43,326,0
+"Pillar, Kevin",607680,Angels,2024,LF,25,305,-27
+"Ward, Taylor",621493,Angels,2024,LF,183,308,-27
+"Guillorme, Luis",641645,Angels,2024,2B,10,153,3
+"Guillorme, Luis",641645,Angels,2024,3B,19,120,-36
+"Rengifo, Luis",650859,Angels,2024,3B,35,118,-37
+"Rengifo, Luis",650859,Angels,2024,2B,54,150,2
+"Moniak, Mickey",666160,Angels,2024,RF,21,295,26
+"Moniak, Mickey",666160,Angels,2024,CF,123,325,0
+"Adell, Jo",666176,Angels,2024,RF,143,295,27
+"Teodosio, Bryce",669326,Angels,2024,CF,12,329,1
+"Campero, Gustavo",672569,Angels,2024,RF,21,296,28
+"Wagaman, Eric",676572,Angels,2024,3B,31,119,-36
+"Adams, Jordyn",677941,Angels,2024,RF,11,292,27
+"Stefanic, Michael",683021,Angels,2024,2B,58,154,2
+"Neto, Zach",687263,Angels,2024,SS,198,146,-19
+"Kavadas, Niko",694359,Angels,2024,1B,10,87,44
+"Schanuel, Nolan",694384,Angels,2024,1B,179,87,43
+"Rojas, Miguel",500743,Dodgers,2024,SS,13,147,-19
+"Freeman, Freddie",518692,Dodgers,2024,1B,23,87,40
+"Hernández, Enrique",571771,Dodgers,2024,3B,17,125,-38
+"Muncy, Max",571970,Dodgers,2024,3B,11,122,-38
+"Betts, Mookie",605141,Dodgers,2024,RF,11,283,26
+"Hernández, Teoscar",606192,Dodgers,2024,RF,13,284,28
+"Hernández, Teoscar",606192,Dodgers,2024,LF,10,302,-28
+"Taylor, Chris",621035,Dodgers,2024,2B,12,153,2
+"Vargas, Miguel",678246,Dodgers,2024,LF,12,305,-25
+"Pages, Andy",681624,Dodgers,2024,CF,16,318,1
+"Bell, Josh",605137,Marlins,2024,1B,10,89,43
+"Anderson, Tim",641313,Marlins,2024,SS,14,142,-20
+"Arraez, Luis",650333,Marlins,2024,2B,14,154,2
+"De La Cruz, Bryan",650559,Marlins,2024,LF,10,296,-28
+"Sánchez, Jesús",660821,Marlins,2024,RF,18,295,25
+"Chisholm Jr., Jazz",665862,Marlins,2024,CF,16,324,-3
+"Edwards, Xavier",669364,Marlins,2024,SS,10,145,-20
+"Lopez, Otto",672640,Marlins,2024,2B,12,152,2
+"Bauers, Jake",641343,Brewers,2024,1B,11,89,40
+"Adames, Willy",642715,Brewers,2024,SS,29,141,-23
+"Hoskins, Rhys",656555,Brewers,2024,1B,12,85,41
+"Perkins, Blake",663368,Brewers,2024,CF,21,322,-1
+"Turang, Brice",668930,Brewers,2024,2B,24,151,4
+"Frelick, Sal",686217,Brewers,2024,RF,15,296,26
+"Ortiz, Joey",687401,Brewers,2024,3B,18,122,-40
+"Chourio, Jackson",694192,Brewers,2024,RF,14,302,25
+"Chourio, Jackson",694192,Brewers,2024,LF,15,305,-30
+"Santana, Carlos",467793,Twins,2024,1B,37,90,39
+"Farmer, Kyle",571657,Twins,2024,2B,19,152,3
+"Kepler, Max",596146,Twins,2024,RF,26,294,30
+"Correa, Carlos",621043,Twins,2024,SS,20,146,-22
+"Buxton, Byron",621439,Twins,2024,CF,21,321,1
+"Castro, Willi",650489,Twins,2024,SS,16,145,-21
+"Julien, Edouard",666397,Twins,2024,2B,12,152,4
+"Martin, Austin",668885,Twins,2024,2B,10,152,3
+"Lewis, Royce",668904,Twins,2024,3B,12,116,-36
+"Miranda, Jose",669304,Twins,2024,3B,23,122,-37
+"Wallner, Matt",670242,Twins,2024,LF,12,297,-25
+"Harper, Bryce",547180,Phillies,2024,1B,22,87,42
+"Castellanos, Nick",592206,Phillies,2024,RF,25,290,30
+"Turner, Trea",607208,Phillies,2024,SS,19,143,-20
+"Bohm, Alec",664761,Phillies,2024,3B,16,118,-38
+"Marsh, Brandon",669016,Phillies,2024,LF,13,300,-26
+"Rojas, Johan",679032,Phillies,2024,CF,20,328,2
+"Stott, Bryson",681082,Phillies,2024,2B,20,147,3
+"Machado, Manny",592518,Padres,2024,3B,10,120,-37
+"Bogaerts, Xander",593428,Padres,2024,2B,10,146,2
+"Profar, Jurickson",595777,Padres,2024,LF,13,304,-28
+"Cronenworth, Jake",630105,Padres,2024,1B,11,87,41
+"Tatis Jr., Fernando",665487,Padres,2024,RF,10,303,26
+"Kim, Ha-Seong",673490,Padres,2024,SS,10,147,-18
+"Merrill, Jackson",701538,Padres,2024,CF,16,326,-1
+"Polanco, Jorge",593871,Mariners,2024,2B,10,153,3
+"Crawford, J.P.",641487,Mariners,2024,SS,12,145,-19
+"France, Ty",664034,Mariners,2024,1B,13,88,41
+"Rojas, Josh",668942,Mariners,2024,3B,14,117,-37
+"Rodríguez, Julio",677594,Mariners,2024,CF,13,322,0
+"Siri, Jose",642350,Rays,2024,CF,135,328,0
+"Rosario, Amed",642708,Rays,2024,SS,11,144,-22
+"Rosario, Amed",642708,Rays,2024,RF,18,290,27
+"Rosario, Amed",642708,Rays,2024,2B,13,150,2
+"Rosario, Amed",642708,Rays,2024,3B,17,115,-37
+"Díaz, Yandy",650490,Rays,2024,1B,137,88,41
+"Lowe, Brandon",664040,Rays,2024,1B,22,88,41
+"Lowe, Brandon",664040,Rays,2024,2B,38,149,2
+"Aranda, Jonathan",666018,Rays,2024,1B,24,89,40
+"Lowe, Josh",666139,Rays,2024,LF,21,312,-27
+"Lowe, Josh",666139,Rays,2024,RF,118,296,28
+"Carlson, Dylan",666185,Rays,2024,LF,43,309,-26
+"Morel, Christopher",666624,Rays,2024,2B,48,153,2
+"Arozarena, Randy",668227,Rays,2024,LF,102,302,-27
+"Paredes, Isaac",670623,Rays,2024,3B,85,123,-39
+"Paredes, Isaac",670623,Rays,2024,1B,21,88,40
+"Walls, Taylor",670764,Rays,2024,SS,102,145,-22
+"DeLuca, Jonny",676356,Rays,2024,CF,61,327,0
+"DeLuca, Jonny",676356,Rays,2024,RF,52,295,27
+"DeLuca, Jonny",676356,Rays,2024,LF,16,309,-27
+"Caballero, José",676609,Rays,2024,SS,95,144,-21
+"Caballero, José",676609,Rays,2024,2B,11,150,3
+"Caballero, José",676609,Rays,2024,3B,48,121,-38
+"Mead, Curtis",678554,Rays,2024,2B,16,149,2
+"Palacios, Richie",680700,Rays,2024,RF,15,297,27
+"Palacios, Richie",680700,Rays,2024,LF,15,309,-26
+"Palacios, Richie",680700,Rays,2024,2B,74,151,2
+"Caminero, Junior",691406,Rays,2024,3B,50,121,-39
+"Springer, George",543807,Blue Jays,2024,RF,86,291,28
+"Kiermaier, Kevin",595281,Blue Jays,2024,CF,45,321,1
+"Biggio, Cavan",624415,Blue Jays,2024,2B,35,153,3
+"Kiner-Falefa, Isiah",643396,Blue Jays,2024,3B,25,113,-37
+"Varsho, Daulton",662139,Blue Jays,2024,CF,47,321,0
+"Varsho, Daulton",662139,Blue Jays,2024,LF,34,297,-27
+"Lukes, Nathan",664770,Blue Jays,2024,LF,11,298,-27
+"Guerrero Jr., Vladimir",665489,Blue Jays,2024,1B,86,88,40
+"De Los Santos, Luis",665782,Blue Jays,2024,3B,15,120,-37
+"Bichette, Bo",666182,Blue Jays,2024,SS,44,144,-20
+"Clement, Ernie",676391,Blue Jays,2024,3B,50,121,-38
+"Clement, Ernie",676391,Blue Jays,2024,SS,44,143,-19
+"Schneider, Davis",676914,Blue Jays,2024,LF,61,297,-27
+"Jiménez, Leo",677870,Blue Jays,2024,2B,33,149,3
+"Jiménez, Leo",677870,Blue Jays,2024,SS,26,144,-19
+"Barger, Addison",680718,Blue Jays,2024,RF,25,294,28
+"Barger, Addison",680718,Blue Jays,2024,3B,17,120,-37
+"Horwitz, Spencer",687462,Blue Jays,2024,2B,33,149,3
+"Horwitz, Spencer",687462,Blue Jays,2024,1B,26,88,42
+"Loperfido, Joey",694388,Blue Jays,2024,CF,13,320,-1
+"Grossman, Robbie",543257,Athletics,2020,LF,22,307,-27
+"Semien, Marcus",543760,Athletics,2020,SS,15,144,-21
+"Piscotty, Stephen",572039,Athletics,2020,RF,21,303,30
+"La Stella, Tommy",600303,Athletics,2020,2B,17,149,-5
+"Machín, Vimael",605353,Athletics,2020,SS,11,148,-22
+"Olson, Matt",621566,Athletics,2020,1B,26,86,40
+"Laureano, Ramón",657656,Athletics,2020,CF,24,329,0
+"Freeman, Freddie",518692,Braves,2020,1B,10,90,39
+"Swanson, Dansby",621020,Braves,2020,SS,11,142,-25
+"Riley, Austin",663586,Braves,2020,3B,10,114,-41
+"Peralta, David",444482,D-backs,2020,LF,52,307,-28
+"Escobar, Eduardo",500871,D-backs,2020,3B,64,123,-38
+"Marte, Starling",516782,D-backs,2020,CF,38,334,-1
+"Walker, Christian",572233,D-backs,2020,1B,61,88,40
+"Calhoun, Kole",594777,D-backs,2020,RF,60,303,27
+"Ahmed, Nick",605113,D-backs,2020,SS,68,141,-22
+"Marte, Ketel",606466,D-backs,2020,2B,46,148,-7
+"Locastro, Tim",641796,D-backs,2020,LF,10,312,-26
+"VanMeter, Josh",642165,D-backs,2020,2B,16,144,-6
+"Varsho, Daulton",662139,D-backs,2020,CF,25,334,0
+"Davis, Chris",448801,Orioles,2020,1B,11,86,42
+"Ruiz, Rio",547004,Orioles,2020,3B,60,121,-37
+"Iglesias, Jose",578428,Orioles,2020,SS,27,145,-22
+"Alberto, Hanser",593643,Orioles,2020,2B,53,148,-6
+"Smith Jr., Dwight",596105,Orioles,2020,LF,15,309,-26
+"Núñez, Renato",600524,Orioles,2020,1B,27,88,41
+"Stewart, DJ",621466,Orioles,2020,RF,41,294,31
+"Velazquez, Andrew",623205,Orioles,2020,SS,20,141,-22
+"Santander, Anthony",623993,Orioles,2020,RF,25,294,30
+"Valaika, Pat",642162,Orioles,2020,2B,10,146,-6
+"Valaika, Pat",642162,Orioles,2020,SS,17,138,-23
+"Valaika, Pat",642162,Orioles,2020,1B,11,91,40
+"Mullins, Cedric",656775,Orioles,2020,CF,45,324,3
+"Mountcastle, Ryan",663624,Orioles,2020,LF,29,310,-25
+"Mountcastle, Ryan",663624,Orioles,2020,1B,15,88,42
+"Hays, Austin",669720,Orioles,2020,LF,20,310,-26
+"Hays, Austin",669720,Orioles,2020,CF,21,325,4
+"Moreland, Mitch",519048,Red Sox,2020,1B,13,91,39
+"Bogaerts, Xander",593428,Red Sox,2020,SS,25,144,-23
+"Bradley Jr., Jackie",598265,Red Sox,2020,CF,29,329,0
+"Peraza, José",606299,Red Sox,2020,2B,12,149,-7
+"Devers, Rafael",646240,Red Sox,2020,3B,28,123,-38
+"Verdugo, Alex",657077,Red Sox,2020,RF,20,291,27
+"Dalbec, Bobby",666915,Red Sox,2020,1B,11,92,37
+"Heyward, Jason",518792,Cubs,2020,RF,11,295,27
+"Rizzo, Anthony",519203,Cubs,2020,1B,16,88,39
+"Báez, Javier",595879,Cubs,2020,SS,16,143,-25
+"Bote, David",623520,Cubs,2020,3B,10,111,-38
+"Schwarber, Kyle",656941,Cubs,2020,LF,16,307,-27
+"Happ, Ian",664023,Cubs,2020,CF,12,328,0
+"Votto, Joey",458015,Reds,2020,1B,15,89,41
+"Moustakas, Mike",519058,Reds,2020,2B,12,152,-5
+"Galvis, Freddy",520471,Reds,2020,SS,14,145,-23
+"Suárez, Eugenio",553993,Reds,2020,3B,18,125,-39
+"Castellanos, Nick",592206,Reds,2020,RF,17,295,27
+"Akiyama, Shogo",673451,Reds,2020,LF,10,302,-27
+"Santana, Carlos",467793,Guardians,2020,1B,10,87,41
+"Hernández, César",514917,Guardians,2020,2B,10,154,-6
+"DeShields, Delino",592261,Guardians,2020,CF,11,327,0
+"Lindor, Francisco",596019,Guardians,2020,SS,11,148,-24
+"Ramírez, José",608070,Guardians,2020,3B,10,121,-39
+"Abreu, José",547989,White Sox,2020,1B,33,85,43
+"Mazara, Nomar",608577,White Sox,2020,RF,15,300,26
+"Anderson, Tim",641313,White Sox,2020,SS,23,144,-21
+"Engel, Adam",641553,White Sox,2020,RF,11,299,23
+"Jiménez, Eloy",650391,White Sox,2020,LF,32,303,-32
+"Moncada, Yoán",660162,White Sox,2020,3B,29,121,-39
+"Madrigal, Nick",663611,White Sox,2020,2B,19,145,-4
+"Robert Jr., Luis",673357,White Sox,2020,CF,33,317,-4
+"Maybin, Cameron",457727,Tigers,2020,RF,11,280,27
+"Cron, C.J.",543068,Tigers,2020,1B,15,85,43
+"Schoop, Jonathan",570731,Tigers,2020,2B,41,148,-7
+"Goodrum, Niko",592348,Tigers,2020,2B,24,147,-7
+"Goodrum, Niko",592348,Tigers,2020,SS,29,139,-23
+"Jones, JaCoby",592444,Tigers,2020,CF,24,323,-1
+"Bonifacio, Jorge",593528,Tigers,2020,RF,12,287,28
+"Bonifacio, Jorge",593528,Tigers,2020,LF,15,309,-29
+"Candelario, Jeimer",600869,Tigers,2020,3B,12,120,-37
+"Candelario, Jeimer",600869,Tigers,2020,1B,47,88,42
+"Stewart, Christin",621514,Tigers,2020,LF,32,300,-28
+"Reyes, Victor",622682,Tigers,2020,CF,35,326,-1
+"Reyes, Victor",622682,Tigers,2020,LF,10,308,-28
+"Reyes, Victor",622682,Tigers,2020,RF,13,294,28
+"Castro, Willi",650489,Tigers,2020,SS,37,138,-23
+"Cameron, Daz",663662,Tigers,2020,RF,28,287,28
+"Paredes, Isaac",670623,Tigers,2020,3B,40,121,-38
+"Gurriel, Yuli",493329,Astros,2020,1B,22,89,41
+"Reddick, Josh",502210,Astros,2020,RF,17,299,27
+"Altuve, Jose",514888,Astros,2020,2B,18,148,-5
+"Springer, George",543807,Astros,2020,CF,14,328,2
+"Bregman, Alex",608324,Astros,2020,3B,15,121,-38
+"Correa, Carlos",621043,Astros,2020,SS,24,144,-21
+"Tucker, Kyle",663656,Astros,2020,LF,18,303,-26
+"Straw, Myles",664702,Astros,2020,CF,11,326,2
+"Gordon, Alex",460086,Royals,2020,LF,46,311,-28
+"Merrifield, Whit",593160,Royals,2020,2B,17,150,-4
+"Merrifield, Whit",593160,Royals,2020,RF,21,289,27
+"Merrifield, Whit",593160,Royals,2020,CF,23,335,0
+"Franco, Maikel",596748,Royals,2020,3B,62,121,-39
+"Starling, Bubba",605490,Royals,2020,CF,26,332,2
+"Mondesi, Adalberto",609275,Royals,2020,SS,64,139,-22
+"Phillips, Brett",621433,Royals,2020,CF,11,325,1
+"Soler, Jorge",624585,Royals,2020,RF,14,303,26
+"Dozier, Hunter",641531,Royals,2020,1B,19,87,40
+"Dozier, Hunter",641531,Royals,2020,RF,22,302,27
+"O'Hearn, Ryan",656811,Royals,2020,1B,38,88,41
+"Lopez, Nicky",670032,Royals,2020,2B,51,151,-3
+"Pujols, Albert",405395,Angels,2020,1B,34,89,40
+"Upton, Justin",457708,Angels,2020,LF,44,313,-29
+"Rendon, Anthony",543685,Angels,2020,3B,66,117,-37
+"Trout, Mike",545361,Angels,2020,CF,72,326,2
+"Goodwin, Brian",571718,Angels,2020,LF,20,299,-29
+"Goodwin, Brian",571718,Angels,2020,RF,17,290,29
+"Simmons, Andrelton",592743,Angels,2020,SS,44,141,-23
+"La Stella, Tommy",600303,Angels,2020,1B,14,86,42
+"La Stella, Tommy",600303,Angels,2020,2B,26,149,-7
+"Ward, Taylor",621493,Angels,2020,LF,10,298,-28
+"Ward, Taylor",621493,Angels,2020,RF,20,297,28
+"Rengifo, Luis",650859,Angels,2020,2B,31,147,-6
+"Fletcher, David",664058,Angels,2020,SS,33,143,-23
+"Fletcher, David",664058,Angels,2020,3B,13,119,-38
+"Fletcher, David",664058,Angels,2020,2B,19,150,-6
+"Walsh, Jared",665120,Angels,2020,1B,31,86,42
+"Adell, Jo",666176,Angels,2020,RF,41,289,30
+"Turner, Justin",457759,Dodgers,2020,3B,47,111,-39
+"Hernández, Enrique",571771,Dodgers,2020,RF,15,287,28
+"Hernández, Enrique",571771,Dodgers,2020,LF,11,305,-27
+"Hernández, Enrique",571771,Dodgers,2020,2B,43,152,-4
+"Muncy, Max",571970,Dodgers,2020,1B,52,89,40
+"Muncy, Max",571970,Dodgers,2020,3B,31,116,-37
+"Muncy, Max",571970,Dodgers,2020,2B,15,152,-3
+"Pollock, AJ",572041,Dodgers,2020,LF,44,303,-27
+"Pollock, AJ",572041,Dodgers,2020,CF,31,322,1
+"Pederson, Joc",592626,Dodgers,2020,LF,39,299,-27
+"Betts, Mookie",605141,Dodgers,2020,RF,94,284,27
+"Beaty, Matt",607461,Dodgers,2020,1B,11,91,39
+"Seager, Corey",608369,Dodgers,2020,SS,81,144,-23
+"Taylor, Chris",621035,Dodgers,2020,SS,33,147,-23
+"Taylor, Chris",621035,Dodgers,2020,2B,18,153,-4
+"Taylor, Chris",621035,Dodgers,2020,CF,16,320,0
+"Taylor, Chris",621035,Dodgers,2020,LF,20,309,-26
+"Rios, Edwin",621458,Dodgers,2020,3B,37,116,-37
+"Bellinger, Cody",641355,Dodgers,2020,1B,39,89,41
+"Bellinger, Cody",641355,Dodgers,2020,CF,65,322,1
+"Lux, Gavin",666158,Dodgers,2020,2B,37,151,-5
+"Joyce, Matt",459964,Marlins,2020,RF,25,296,26
+"Rojas, Miguel",500743,Marlins,2020,SS,42,143,-21
+"Marte, Starling",516782,Marlins,2020,CF,33,324,0
+"Villar, Jonathan",542340,Marlins,2020,SS,16,147,-23
+"Aguilar, Jesús",542583,Marlins,2020,1B,38,87,42
+"Berti, Jon",542932,Marlins,2020,2B,31,151,-8
+"Dickerson, Corey",572816,Marlins,2020,LF,47,308,-27
+"Anderson, Brian",605119,Marlins,2020,3B,64,120,-37
+"Brinson, Lewis",621446,Marlins,2020,RF,22,295,26
+"Sierra, Magneuris",642423,Marlins,2020,LF,10,306,-28
+"Cooper, Garrett",643265,Marlins,2020,1B,19,90,38
+"Harrison, Monte",656509,Marlins,2020,CF,16,322,1
+"Chisholm Jr., Jazz",665862,Marlins,2020,SS,11,141,-21
+"Chisholm Jr., Jazz",665862,Marlins,2020,2B,15,144,-7
+"Smoak, Justin",475253,Brewers,2020,1B,13,94,37
+"García, Avisaíl",541645,Brewers,2020,CF,18,322,1
+"Gamel, Ben",592325,Brewers,2020,RF,11,295,27
+"Yelich, Christian",592885,Brewers,2020,LF,17,300,-28
+"Arcia, Orlando",606115,Brewers,2020,SS,17,141,-24
+"Hiura, Keston",669374,Brewers,2020,2B,17,150,-7
+"Adrianza, Ehire",501303,Twins,2020,3B,18,119,-36
+"Gonzalez, Marwin",503556,Twins,2020,3B,27,114,-39
+"Gonzalez, Marwin",503556,Twins,2020,2B,11,150,-6
+"Gonzalez, Marwin",503556,Twins,2020,RF,15,300,29
+"Donaldson, Josh",518626,Twins,2020,3B,32,116,-38
+"Vargas, Ildemaro",545121,Twins,2020,2B,12,148,-7
+"Rosario, Eddie",592696,Twins,2020,LF,68,303,-27
+"Polanco, Jorge",593871,Twins,2020,SS,70,147,-23
+"Sanó, Miguel",593934,Twins,2020,1B,66,87,41
+"Cave, Jake",595909,Twins,2020,CF,38,332,1
+"Kepler, Max",596146,Twins,2020,RF,54,292,28
+"Buxton, Byron",621439,Twins,2020,CF,33,329,1
+"Arraez, Luis",650333,Twins,2020,2B,45,148,-7
+"Nimmo, Brandon",607043,Mets,2020,CF,14,330,1
+"Alonso, Pete",624413,Mets,2020,1B,10,87,42
+"Conforto, Michael",624424,Mets,2020,RF,18,296,27
+"Smith, Dominic",642086,Mets,2020,1B,10,89,38
+"Rosario, Amed",642708,Mets,2020,SS,11,142,-23
+"Gardner, Brett",458731,Yankees,2020,LF,27,298,-26
+"LeMahieu, DJ",518934,Yankees,2020,2B,23,150,-6
+"Hicks, Aaron",543305,Yankees,2020,CF,33,327,1
+"Urshela, Gio",570482,Yankees,2020,3B,32,123,-38
+"Voit, Luke",572228,Yankees,2020,1B,28,91,40
+"Judge, Aaron",592450,Yankees,2020,RF,15,294,25
+"Frazier, Clint",640449,Yankees,2020,RF,19,285,27
+"Wade, Tyler",642180,Yankees,2020,SS,13,146,-23
+"Wade, Tyler",642180,Yankees,2020,2B,10,155,-5
+"Ford, Mike",645801,Yankees,2020,1B,14,94,39
+"Torres, Gleyber",650402,Yankees,2020,SS,27,145,-24
+"McCutchen, Andrew",457705,Phillies,2020,LF,23,300,-27
+"Segura, Jean",516416,Phillies,2020,2B,16,152,-5
+"Segura, Jean",516416,Phillies,2020,3B,15,119,-38
+"Gregorius, Didi",544369,Phillies,2020,SS,37,141,-22
+"Harper, Bryce",547180,Phillies,2020,RF,30,298,27
+"Quinn, Roman",596451,Phillies,2020,CF,26,328,0
+"Hoskins, Rhys",656555,Phillies,2020,1B,31,92,39
+"Kingery, Scott",664068,Phillies,2020,2B,16,152,-5
+"Bohm, Alec",664761,Phillies,2020,3B,20,117,-38
+"Dyson, Jarrod",502481,Pirates,2020,CF,19,319,3
+"Polanco, Gregory",570256,Pirates,2020,RF,56,293,30
+"González, Erik",570481,Pirates,2020,SS,59,147,-21
+"Osuna, José",591741,Pirates,2020,RF,12,291,29
+"Moran, Colin",592567,Pirates,2020,1B,30,88,41
+"Riddle, JT",595375,Pirates,2020,3B,14,119,-37
+"Evans, Phillip",595943,Pirates,2020,3B,12,120,-35
+"Bell, Josh",605137,Pirates,2020,1B,49,88,40
+"Newman, Kevin",621028,Pirates,2020,SS,25,145,-21
+"Newman, Kevin",621028,Pirates,2020,2B,36,150,-3
+"Frazier, Adam",624428,Pirates,2020,LF,25,301,-25
+"Frazier, Adam",624428,Pirates,2020,2B,48,149,-5
+"Tucker, Cole",657061,Pirates,2020,CF,26,334,4
+"Tucker, Cole",657061,Pirates,2020,RF,16,293,28
+"Hayes, Ke'Bryan",663647,Pirates,2020,3B,47,120,-36
+"Reynolds, Bryan",668804,Pirates,2020,CF,22,317,5
+"Reynolds, Bryan",668804,Pirates,2020,LF,52,314,-24
+"Renfroe, Hunter",592669,Rays,2020,RF,37,292,29
+"Kiermaier, Kevin",595281,Rays,2020,CF,43,318,3
+"Choi, Ji Man",596847,Rays,2020,1B,40,84,41
+"Wendle, Joey",621563,Rays,2020,2B,17,153,-4
+"Wendle, Joey",621563,Rays,2020,3B,20,114,-38
+"Margot, Manuel",622534,Rays,2020,CF,11,324,2
+"Meadows, Austin",640457,Rays,2020,LF,16,311,-27
+"Adames, Willy",642715,Rays,2020,SS,49,141,-23
+"Díaz, Yandy",650490,Rays,2020,3B,22,113,-37
+"Tsutsugo, Yoshi",660294,Rays,2020,LF,15,304,-26
+"Lowe, Brandon",664040,Rays,2020,2B,32,144,-6
+"Arozarena, Randy",668227,Rays,2020,LF,11,309,-27
+"Choo, Shin-Soo",425783,Rangers,2020,LF,15,303,-28
+"Frazier, Todd",453943,Rangers,2020,3B,13,110,-38
+"Frazier, Todd",453943,Rangers,2020,1B,11,88,39
+"Andrus, Elvis",462101,Rangers,2020,SS,23,141,-21
+"Gallo, Joey",608336,Rangers,2020,RF,32,289,29
+"Guzmán, Ronald",608597,Rangers,2020,1B,13,89,40
+"Kiner-Falefa, Isiah",643396,Rangers,2020,SS,11,132,-22
+"Kiner-Falefa, Isiah",643396,Rangers,2020,3B,22,113,-39
+"Taveras, Leody",665750,Rangers,2020,CF,20,319,3
+"Solak, Nick",669256,Rangers,2020,2B,19,144,-4
+"Solak, Nick",669256,Rangers,2020,CF,11,329,0
+"Villar, Jonathan",542340,Blue Jays,2020,2B,15,147,-6
+"Shaw, Travis",543768,Blue Jays,2020,3B,21,117,-39
+"Grichuk, Randal",545341,Blue Jays,2020,CF,36,317,-1
+"Panik, Joe",605412,Blue Jays,2020,2B,11,148,-4
+"Hernández, Teoscar",606192,Blue Jays,2020,RF,24,289,27
+"Biggio, Cavan",624415,Blue Jays,2020,2B,17,148,-4
+"Biggio, Cavan",624415,Blue Jays,2020,3B,14,121,-38
+"Guerrero Jr., Vladimir",665489,Blue Jays,2020,1B,26,89,41
+"Bichette, Bo",666182,Blue Jays,2020,SS,15,144,-22
+"Gurriel Jr., Lourdes",666971,Blue Jays,2020,LF,32,304,-30
+"Espinal, Santiago",669289,Blue Jays,2020,SS,15,143,-22
+"Cabrera, Asdrúbal",452678,Nationals,2020,3B,18,120,-38
+"Castro, Starlin",516770,Nationals,2020,2B,14,152,-5
+"Thames, Eric",519346,Nationals,2020,1B,21,90,41
+"Taylor, Michael A.",572191,Nationals,2020,LF,13,310,-27
+"Eaton, Adam",594809,Nationals,2020,RF,29,299,28
+"Turner, Trea",607208,Nationals,2020,SS,40,143,-22
+"Robles, Victor",645302,Nationals,2020,CF,32,330,0
+"Soto, Juan",665742,Nationals,2020,LF,14,312,-28
+"Kieboom, Carter",666198,Nationals,2020,3B,15,120,-38
+"García Jr., Luis",671277,Nationals,2020,2B,22,148,-5
+"Rosario, Eddie",592696,Braves,2023,LF,116,309,-26
+"Arcia, Orlando",606115,Braves,2023,SS,144,145,-20
+"Pillar, Kevin",607680,Braves,2023,LF,24,307,-26
+"Olson, Matt",621566,Braves,2023,1B,147,89,38
+"Albies, Ozzie",645277,Braves,2023,2B,148,153,2
+"Acuña Jr., Ronald",660670,Braves,2023,RF,141,293,30
+"Riley, Austin",663586,Braves,2023,3B,147,117,-39
+"Harris II, Michael",671739,Braves,2023,CF,148,323,3
+"Walker, Christian",572233,D-backs,2023,1B,15,88,39
+"Perdomo, Geraldo",672695,D-backs,2023,2B,13,153,3
+"Thomas, Alek",677950,D-backs,2023,CF,16,312,-1
+"Swanson, Dansby",621020,Cubs,2023,SS,36,147,-19
+"Wisdom, Patrick",621550,Cubs,2023,3B,15,115,-35
+"Bellinger, Cody",641355,Cubs,2023,CF,17,328,0
+"Tauchman, Mike",643565,Cubs,2023,CF,18,329,2
+"Hoerner, Nico",663538,Cubs,2023,2B,35,151,3
+"Madrigal, Nick",663611,Cubs,2023,3B,10,116,-38
+"Happ, Ian",664023,Cubs,2023,LF,37,308,-27
+"Suzuki, Seiya",673548,Cubs,2023,RF,29,290,29
+"Votto, Joey",458015,Reds,2023,1B,15,88,39
+"Fraley, Jake",641584,Reds,2023,RF,12,291,27
+"Fairchild, Stuart",656413,Reds,2023,LF,10,301,-26
+"India, Jonathan",663697,Reds,2023,2B,25,151,3
+"Benson, Will",666181,Reds,2023,RF,15,296,28
+"Benson, Will",666181,Reds,2023,LF,11,303,-24
+"Steer, Spencer",668715,Reds,2023,1B,23,86,42
+"Steer, Spencer",668715,Reds,2023,3B,13,119,-37
+"Steer, Spencer",668715,Reds,2023,LF,11,300,-25
+"Senzel, Nick",669222,Reds,2023,3B,12,124,-37
+"Friedl, TJ",670770,Reds,2023,CF,37,323,2
+"McLain, Matt",680574,Reds,2023,SS,14,144,-19
+"McLain, Matt",680574,Reds,2023,2B,20,153,2
+"De La Cruz, Elly",682829,Reds,2023,3B,11,125,-36
+"De La Cruz, Elly",682829,Reds,2023,SS,23,145,-19
+"Tovar, Ezequiel",678662,Rockies,2023,SS,12,144,-22
+"Andrus, Elvis",462101,White Sox,2023,2B,13,153,3
+"Anderson, Tim",641313,White Sox,2023,SS,13,143,-17
+"Benintendi, Andrew",643217,White Sox,2023,LF,18,302,-27
+"Moncada, Yoán",660162,White Sox,2023,3B,11,118,-36
+"Robert Jr., Luis",673357,White Sox,2023,CF,14,324,1
+"Vaughn, Andrew",683734,White Sox,2023,1B,16,88,40
+"Báez, Javier",595879,Tigers,2023,SS,32,142,-22
+"McKinstry, Zach",656716,Tigers,2023,2B,22,153,2
+"Vierling, Matt",663837,Tigers,2023,RF,22,293,26
+"Maton, Nick",665155,Tigers,2023,3B,14,113,-37
+"Baddoo, Akil",668731,Tigers,2023,LF,23,303,-28
+"Torkelson, Spencer",679529,Tigers,2023,1B,34,88,42
+"Carpenter, Kerry",681481,Tigers,2023,RF,11,291,24
+"Greene, Riley",682985,Tigers,2023,CF,29,322,-1
+"Altuve, Jose",514888,Astros,2023,2B,19,149,3
+"Abreu, José",547989,Astros,2023,1B,24,88,40
+"Bregman, Alex",608324,Astros,2023,3B,25,114,-37
+"Tucker, Kyle",663656,Astros,2023,RF,22,291,28
+"Peña, Jeremy",665161,Astros,2023,SS,24,141,-18
+"Alvarez, Yordan",670541,Astros,2023,LF,11,302,-27
+"Meyers, Jake",676694,Astros,2023,CF,15,324,1
+"Drury, Brandon",592273,Angels,2023,1B,10,88,41
+"Renfroe, Hunter",592669,Angels,2023,RF,18,296,27
+"Ward, Taylor",621493,Angels,2023,LF,16,303,-26
+"Rengifo, Luis",650859,Angels,2023,2B,18,151,3
+"Moniak, Mickey",666160,Angels,2023,CF,12,331,0
+"Neto, Zach",687263,Angels,2023,SS,15,145,-20
+"Rojas, Miguel",500743,Dodgers,2023,SS,22,147,-19
+"Freeman, Freddie",518692,Dodgers,2023,1B,30,88,39
+"Hernández, Enrique",571771,Dodgers,2023,2B,17,151,2
+"Muncy, Max",571970,Dodgers,2023,3B,26,124,-38
+"Betts, Mookie",605141,Dodgers,2023,RF,25,286,26
+"Taylor, Chris",621035,Dodgers,2023,LF,14,307,-28
+"Vargas, Miguel",678246,Dodgers,2023,2B,10,152,3
+"Outman, James",681546,Dodgers,2023,CF,27,319,1
+"Gurriel, Yuli",493329,Marlins,2023,1B,40,92,40
+"Segura, Jean",516416,Marlins,2023,3B,41,119,-39
+"Berti, Jon",542932,Marlins,2023,3B,15,119,-38
+"Berti, Jon",542932,Marlins,2023,SS,21,147,-18
+"Wendle, Joey",621563,Marlins,2023,SS,39,147,-18
+"Soler, Jorge",624585,Marlins,2023,RF,14,295,25
+"Davis, Jonathan",641505,Marlins,2023,CF,17,320,-1
+"Hampson, Garrett",641658,Marlins,2023,CF,12,317,0
+"Cooper, Garrett",643265,Marlins,2023,1B,20,91,39
+"Arraez, Luis",650333,Marlins,2023,2B,59,153,2
+"De La Cruz, Bryan",650559,Marlins,2023,LF,62,304,-27
+"Sánchez, Jesús",660821,Marlins,2023,RF,37,294,26
+"Chisholm Jr., Jazz",665862,Marlins,2023,CF,31,324,0
+"Burger, Jake",669394,Marlins,2023,3B,13,123,-38
+"Solano, Donovan",456781,Twins,2023,3B,14,122,-39
+"Solano, Donovan",456781,Twins,2023,2B,22,152,2
+"Solano, Donovan",456781,Twins,2023,1B,31,88,41
+"Farmer, Kyle",571657,Twins,2023,3B,18,121,-40
+"Farmer, Kyle",571657,Twins,2023,SS,23,145,-21
+"Taylor, Michael A.",572191,Twins,2023,CF,76,327,1
+"Kepler, Max",596146,Twins,2023,RF,72,288,30
+"Gallo, Joey",608336,Twins,2023,1B,15,91,41
+"Gallo, Joey",608336,Twins,2023,LF,29,309,-27
+"Correa, Carlos",621043,Twins,2023,SS,81,146,-23
+"Castro, Willi",650489,Twins,2023,LF,21,307,-27
+"Castro, Willi",650489,Twins,2023,3B,26,120,-40
+"Castro, Willi",650489,Twins,2023,CF,20,334,2
+"Larnach, Trevor",663616,Twins,2023,LF,18,306,-27
+"Larnach, Trevor",663616,Twins,2023,RF,10,290,30
+"Kirilloff, Alex",666135,Twins,2023,1B,56,89,42
+"Julien, Edouard",666397,Twins,2023,2B,72,152,3
+"Lewis, Royce",668904,Twins,2023,3B,21,122,-39
+"Miranda, Jose",669304,Twins,2023,3B,20,122,-38
+"Wallner, Matt",670242,Twins,2023,RF,13,294,29
+"Wallner, Matt",670242,Twins,2023,LF,25,309,-26
+"Castellanos, Nick",592206,Phillies,2023,RF,38,290,29
+"Turner, Trea",607208,Phillies,2023,SS,41,143,-20
+"Sosa, Edmundo",624641,Phillies,2023,3B,18,117,-37
+"Schwarber, Kyle",656941,Phillies,2023,LF,27,309,-27
+"Bohm, Alec",664761,Phillies,2023,3B,18,118,-38
+"Bohm, Alec",664761,Phillies,2023,1B,14,86,42
+"Clemens, Kody",665019,Phillies,2023,1B,13,88,42
+"Marsh, Brandon",669016,Phillies,2023,CF,28,326,1
+"Rojas, Johan",679032,Phillies,2023,CF,10,326,1
+"Stott, Bryson",681082,Phillies,2023,2B,43,147,3
+"Palacios, Joshua",641943,Pirates,2023,RF,12,291,27
+"Joe, Connor",656582,Pirates,2023,1B,13,88,40
+"Hayes, Ke'Bryan",663647,Pirates,2023,3B,29,114,-35
+"Rivas III, Alfonso",663845,Pirates,2023,1B,19,91,38
+"Reynolds, Bryan",668804,Pirates,2023,LF,24,301,-26
+"Suwinski, Jack",669261,Pirates,2023,CF,23,323,0
+"Williams, Alika",675961,Pirates,2023,SS,30,145,-17
+"Bae, Ji Hwan",678225,Pirates,2023,CF,12,320,4
+"Peguero, Liover",678894,Pirates,2023,2B,30,152,3
+"Davis, Henry",680779,Pirates,2023,RF,14,291,27
+"Machado, Manny",592518,Padres,2023,3B,12,119,-38
+"Bogaerts, Xander",593428,Padres,2023,SS,18,144,-18
+"Cronenworth, Jake",630105,Padres,2023,1B,11,85,43
+"Grisham, Trent",663757,Padres,2023,CF,20,326,2
+"Tatis Jr., Fernando",665487,Padres,2023,RF,13,289,29
+"Soto, Juan",665742,Padres,2023,LF,16,304,-26
+"Kim, Ha-Seong",673490,Padres,2023,2B,12,150,3
+"Suárez, Eugenio",553993,Mariners,2023,3B,14,124,-36
+"Hernández, Teoscar",606192,Mariners,2023,RF,12,296,28
+"Crawford, J.P.",641487,Mariners,2023,SS,10,146,-20
+"France, Ty",664034,Mariners,2023,1B,14,88,40
+"Rodríguez, Julio",677594,Mariners,2023,CF,13,322,4
+"Flores, Wilmer",527038,Giants,2023,1B,16,88,40
+"Crawford, Brandon",543063,Giants,2023,SS,15,138,-20
+"Haniger, Mitch",571745,Giants,2023,LF,16,303,-27
+"Yastrzemski, Mike",573262,Giants,2023,LF,10,303,-27
+"Yastrzemski, Mike",573262,Giants,2023,CF,15,328,0
+"Davis, J.D.",605204,Giants,2023,3B,37,119,-37
+"Conforto, Michael",624424,Giants,2023,RF,30,297,28
+"Estrada, Thairo",642731,Giants,2023,SS,16,144,-20
+"Wade Jr., LaMonte",664774,Giants,2023,1B,29,87,39
+"Johnson, Bryce",669369,Giants,2023,CF,10,314,0
+"Villar, David",681584,Giants,2023,2B,22,152,2
+"Wisely, Brett",689172,Giants,2023,2B,15,151,2
+"Goldschmidt, Paul",502671,Cardinals,2023,1B,30,89,41
+"Arenado, Nolan",571448,Cardinals,2023,3B,30,122,-35
+"O'Neill, Tyler",641933,Cardinals,2023,LF,23,306,-26
+"Nootbaar, Lars",663457,Cardinals,2023,CF,21,317,2
+"Edman, Tommy",669242,Cardinals,2023,SS,18,145,-20
+"Gorman, Nolan",669357,Cardinals,2023,2B,26,150,3
+"Palacios, Richie",680700,Cardinals,2023,LF,10,307,-26
+"Walker, Jordan",691023,Cardinals,2023,RF,38,290,29
+"Winn, Masyn",691026,Cardinals,2023,SS,23,144,-20
+"Margot, Manuel",622534,Rays,2023,CF,31,327,-1
+"Margot, Manuel",622534,Rays,2023,RF,27,295,27
+"Siri, Jose",642350,Rays,2023,CF,69,324,-1
+"Díaz, Yandy",650490,Rays,2023,1B,78,86,43
+"Lowe, Brandon",664040,Rays,2023,2B,79,150,3
+"Lowe, Josh",666139,Rays,2023,RF,65,292,26
+"Arozarena, Randy",668227,Rays,2023,LF,94,300,-27
+"Raley, Luke",670042,Rays,2023,LF,14,297,-29
+"Raley, Luke",670042,Rays,2023,1B,22,87,41
+"Raley, Luke",670042,Rays,2023,RF,16,291,27
+"Paredes, Isaac",670623,Rays,2023,3B,67,121,-39
+"Paredes, Isaac",670623,Rays,2023,2B,14,151,2
+"Walls, Taylor",670764,Rays,2023,3B,26,121,-40
+"Walls, Taylor",670764,Rays,2023,SS,12,144,-21
+"Walls, Taylor",670764,Rays,2023,2B,13,152,3
+"Franco, Wander",677551,Rays,2023,SS,90,143,-23
+"Mead, Curtis",678554,Rays,2023,3B,13,118,-39
+"Semien, Marcus",543760,Rangers,2023,2B,42,151,3
+"Seager, Corey",608369,Rangers,2023,SS,27,143,-19
+"Jankowski, Travis",608671,Rangers,2023,LF,20,299,-29
+"Lowe, Nathaniel",663993,Rangers,2023,1B,42,89,41
+"Taveras, Leody",665750,Rangers,2023,CF,40,325,-1
+"García, Adolis",666969,Rangers,2023,RF,33,299,27
+"Jung, Josh",673962,Rangers,2023,3B,31,121,-37
+"Duran, Ezequiel",677649,Rangers,2023,SS,14,146,-18
+"Lowrie, Jed",476704,Athletics,2018,2B,12,152,-6
+"Semien, Marcus",543760,Athletics,2018,SS,14,144,-21
+"Piscotty, Stephen",572039,Athletics,2018,RF,13,301,28
+"Olson, Matt",621566,Athletics,2018,1B,13,90,38
+"Chapman, Matt",656305,Athletics,2018,3B,10,126,-38
+"Markakis, Nick",455976,Braves,2018,RF,11,298,27
+"Freeman, Freddie",518692,Braves,2018,1B,11,84,42
+"Inciarte, Ender",542255,Braves,2018,CF,11,324,3
+"Albies, Ozzie",645277,Braves,2018,2B,11,150,-6
+"Peralta, David",444482,D-backs,2018,LF,55,302,-27
+"Jay, Jon",445055,D-backs,2018,RF,28,306,27
+"Escobar, Eduardo",500871,D-backs,2018,3B,33,114,-39
+"Dyson, Jarrod",502481,D-backs,2018,CF,20,336,1
+"Goldschmidt, Paul",502671,D-backs,2018,1B,63,91,40
+"Descalso, Daniel",518614,D-backs,2018,2B,24,148,-6
+"Souza Jr., Steven",519306,D-backs,2018,RF,31,299,26
+"Lamb, Jake",571875,D-backs,2018,3B,26,112,-38
+"Pollock, AJ",572041,D-backs,2018,CF,36,333,1
+"Ahmed, Nick",605113,D-backs,2018,SS,59,143,-23
+"Marte, Ketel",606466,D-backs,2018,2B,41,150,-7
+"Jones, Adam",430945,Orioles,2018,CF,25,324,0
+"Davis, Chris",448801,Orioles,2018,1B,26,89,41
+"Beckham, Tim",542921,Orioles,2018,3B,10,122,-39
+"Schoop, Jonathan",570731,Orioles,2018,2B,11,151,-7
+"Machado, Manny",592518,Orioles,2018,SS,27,146,-23
+"Peterson, Jace",607054,Orioles,2018,2B,12,146,-5
+"Miller, Brad",543543,Rays,2018,1B,34,88,40
+"Santander, Anthony",623993,Orioles,2018,RF,12,306,27
+"Mancini, Trey",641820,Orioles,2018,LF,18,305,-26
+"Desmond, Ian",435622,Rockies,2018,1B,33,91,41
+"Blackmon, Charlie",453568,Rockies,2018,CF,39,321,1
+"Parra, Gerardo",467827,Rockies,2018,LF,22,303,-28
+"González, Carlos",471865,Rockies,2018,RF,32,302,28
+"LeMahieu, DJ",518934,Rockies,2018,2B,24,151,-6
+"Arenado, Nolan",571448,Rockies,2018,3B,36,118,-37
+"Story, Trevor",596115,Rockies,2018,SS,40,141,-21
+"Dahl, David",621311,Rockies,2018,LF,13,303,-26
+"García, Avisaíl",541645,White Sox,2018,RF,33,299,27
+"García, Leury",544725,White Sox,2018,LF,16,299,-30
+"Delmonico, Nicky",547170,White Sox,2018,LF,20,297,-29
+"Abreu, José",547989,White Sox,2018,1B,44,86,42
+"Sánchez, Yolmer",570560,White Sox,2018,3B,61,116,-38
+"Davidson, Matt",571602,White Sox,2018,1B,18,87,41
+"Thompson, Trayce",572204,White Sox,2018,RF,16,288,28
+"Palka, Daniel",594953,White Sox,2018,RF,13,298,27
+"Tilson, Charlie",605508,White Sox,2018,LF,15,300,-28
+"Anderson, Tim",641313,White Sox,2018,SS,57,144,-21
+"Engel, Adam",641553,White Sox,2018,CF,53,316,-2
+"Moncada, Yoán",660162,White Sox,2018,2B,64,152,-3
+"Adduci, James",451192,Tigers,2018,1B,18,88,41
+"Rodríguez, Ronny",500135,Tigers,2018,SS,10,143,-20
+"Mahtook, Mikie",543484,Tigers,2018,LF,15,305,-27
+"Martin, Leonys",547982,Tigers,2018,CF,14,320,-2
+"Machado, Dixon",553988,Tigers,2018,2B,11,150,-3
+"Iglesias, Jose",578428,Tigers,2018,SS,28,144,-20
+"Castellanos, Nick",592206,Tigers,2018,RF,38,298,26
+"Goodrum, Niko",592348,Tigers,2018,2B,24,150,-4
+"Jones, JaCoby",592444,Tigers,2018,LF,10,296,-26
+"Jones, JaCoby",592444,Tigers,2018,CF,17,331,0
+"Candelario, Jeimer",600869,Tigers,2018,3B,38,114,-38
+"Gurriel, Yuli",493329,Astros,2018,1B,30,88,41
+"Reddick, Josh",502210,Astros,2018,RF,30,294,26
+"Gonzalez, Marwin",503556,Astros,2018,1B,12,87,43
+"Gonzalez, Marwin",503556,Astros,2018,LF,21,297,-28
+"Altuve, Jose",514888,Astros,2018,2B,45,147,-5
+"Springer, George",543807,Astros,2018,RF,21,285,26
+"Springer, George",543807,Astros,2018,CF,22,318,0
+"Marisnick, Jake",545350,Astros,2018,CF,25,320,0
+"Bregman, Alex",608324,Astros,2018,3B,46,119,-37
+"Bregman, Alex",608324,Astros,2018,SS,10,141,-20
+"Correa, Carlos",621043,Astros,2018,SS,41,146,-22
+"Kemp, Tony",643393,Astros,2018,LF,12,294,-27
+"White, Tyler",643603,Astros,2018,1B,12,88,44
+"Escobar, Alcides",444876,Royals,2018,SS,97,140,-21
+"Jay, Jon",445055,Royals,2018,CF,24,331,5
+"Jay, Jon",445055,Royals,2018,LF,47,304,-27
+"Duda, Lucas",446263,Royals,2018,1B,56,91,39
+"Orlando, Paulo",449181,Royals,2018,CF,14,323,2
+"Gordon, Alex",460086,Royals,2018,LF,57,306,-27
+"Gordon, Alex",460086,Royals,2018,CF,12,330,3
+"Almonte, Abraham",501659,Royals,2018,CF,34,327,2
+"Moustakas, Mike",519058,Royals,2018,3B,61,111,-37
+"Goins, Ryan",572365,Royals,2018,2B,31,148,-6
+"Merrifield, Whit",593160,Royals,2018,2B,78,151,-5
+"Merrifield, Whit",593160,Royals,2018,CF,12,326,2
+"Bonifacio, Jorge",593528,Royals,2018,RF,11,300,27
+"Herrera, Rosell",594011,Royals,2018,RF,10,295,27
+"Cuthbert, Cheslor",596144,Royals,2018,1B,11,89,41
+"Cuthbert, Cheslor",596144,Royals,2018,3B,24,117,-38
+"Mondesi, Adalberto",609275,Royals,2018,SS,16,143,-21
+"Soler, Jorge",624585,Royals,2018,RF,79,295,30
+"Dozier, Hunter",641531,Royals,2018,3B,11,117,-39
+"Dozier, Hunter",641531,Royals,2018,1B,28,89,40
+"O'Hearn, Ryan",656811,Royals,2018,1B,11,90,38
+"Prado, Martín",445988,Marlins,2018,3B,45,111,-37
+"Maybin, Cameron",457727,Marlins,2018,LF,16,304,-27
+"Maybin, Cameron",457727,Marlins,2018,CF,25,326,2
+"Rojas, Miguel",500743,Marlins,2018,SS,52,142,-20
+"Rojas, Miguel",500743,Marlins,2018,3B,28,111,-37
+"Castro, Starlin",516770,Marlins,2018,2B,110,149,-4
+"Dietrich, Derek",518618,Marlins,2018,LF,63,304,-27
+"Dietrich, Derek",518618,Marlins,2018,1B,15,88,40
+"Galloway, Isaac",543194,Marlins,2018,LF,10,299,-27
+"Bour, Justin",571506,Marlins,2018,1B,78,89,40
+"Rivera, Yadiel",592680,Marlins,2018,3B,13,117,-39
+"Riddle, JT",595375,Marlins,2018,SS,61,142,-20
+"O'Brien, Peter",598284,Marlins,2018,1B,10,89,40
+"Anderson, Brian",605119,Marlins,2018,RF,74,288,27
+"Anderson, Brian",605119,Marlins,2018,3B,34,113,-38
+"Brinson, Lewis",621446,Marlins,2018,CF,58,321,0
+"Dean, Austin",621573,Marlins,2018,LF,14,305,-28
+"Sierra, Magneuris",642423,Marlins,2018,CF,31,329,2
+"Cain, Lorenzo",456715,Brewers,2018,CF,45,322,1
+"Braun, Ryan",460075,Brewers,2018,LF,29,305,-26
+"Moustakas, Mike",519058,Brewers,2018,3B,20,117,-38
+"Pérez, Hernán",541650,Brewers,2018,2B,10,156,-6
+"Villar, Jonathan",542340,Brewers,2018,2B,15,152,-6
+"Aguilar, Jesús",542583,Brewers,2018,1B,42,87,41
+"Shaw, Travis",543768,Brewers,2018,2B,15,152,-8
+"Shaw, Travis",543768,Brewers,2018,3B,26,121,-40
+"Santana, Domingo",570267,Brewers,2018,RF,11,282,28
+"Yelich, Christian",592885,Brewers,2018,LF,15,297,-27
+"Yelich, Christian",592885,Brewers,2018,RF,26,291,27
+"Arcia, Orlando",606115,Brewers,2018,SS,38,145,-24
+"Mauer, Joe",408045,Twins,2018,1B,31,88,41
+"Morrison, Logan",489149,Twins,2018,1B,14,92,39
+"Escobar, Eduardo",500871,Twins,2018,3B,26,118,-39
+"Adrianza, Ehire",501303,Twins,2018,3B,15,121,-39
+"Adrianza, Ehire",501303,Twins,2018,SS,29,143,-24
+"Forsythe, Logan",523253,Twins,2018,2B,22,151,-6
+"LaMarre, Ryan",534606,Twins,2018,CF,12,341,2
+"Grossman, Robbie",543257,Twins,2018,LF,20,307,-26
+"Grossman, Robbie",543257,Twins,2018,RF,17,302,27
+"Dozier, Brian",572821,Twins,2018,2B,29,150,-7
+"Rosario, Eddie",592696,Twins,2018,LF,35,304,-26
+"Polanco, Jorge",593871,Twins,2018,SS,28,143,-24
+"Sanó, Miguel",593934,Twins,2018,3B,17,122,-39
+"Cave, Jake",595909,Twins,2018,CF,29,332,2
+"Kepler, Max",596146,Twins,2018,RF,43,299,27
+"Kepler, Max",596146,Twins,2018,CF,14,333,1
+"Frazier, Todd",453943,Mets,2018,3B,16,109,-37
+"Conforto, Michael",624424,Mets,2018,LF,16,303,-27
+"Rosario, Amed",642708,Mets,2018,SS,17,141,-23
+"McNeil, Jeff",643446,Mets,2018,2B,17,150,-5
+"McCutchen, Andrew",457705,Yankees,2018,RF,10,290,26
+"Gardner, Brett",458731,Yankees,2018,LF,28,304,-26
+"Hicks, Aaron",543305,Yankees,2018,CF,34,330,1
+"Gregorius, Didi",544369,Yankees,2018,SS,27,144,-21
+"Voit, Luke",572228,Yankees,2018,1B,17,90,39
+"Judge, Aaron",592450,Yankees,2018,RF,23,294,25
+"Bird, Greg",595885,Yankees,2018,1B,12,90,39
+"Andujar, Miguel",609280,Yankees,2018,3B,30,114,-37
+"Torres, Gleyber",650402,Yankees,2018,2B,31,156,-5
+"Santana, Carlos",467793,Phillies,2018,1B,35,90,40
+"Hernández, César",514917,Phillies,2018,2B,37,150,-5
+"Herrera, Odúbel",546318,Phillies,2018,CF,34,331,3
+"Altherr, Aaron",571437,Phillies,2018,RF,12,301,28
+"Franco, Maikel",596748,Phillies,2018,3B,29,119,-38
+"Williams, Nick",608384,Phillies,2018,RF,24,290,30
+"Hoskins, Rhys",656555,Phillies,2018,LF,29,303,-26
+"Kingery, Scott",664068,Phillies,2018,SS,23,143,-21
+"Mercer, Jordy",474568,Pirates,2018,SS,35,143,-24
+"Freese, David",501896,Pirates,2018,3B,12,110,-35
+"Marte, Starling",516782,Pirates,2018,CF,28,327,0
+"Harrison, Josh",543281,Pirates,2018,2B,25,152,-5
+"Polanco, Gregory",570256,Pirates,2018,RF,40,298,26
+"Dickerson, Corey",572816,Pirates,2018,LF,25,311,-26
+"Moran, Colin",592567,Pirates,2018,3B,30,114,-35
+"Bell, Josh",605137,Pirates,2018,1B,32,88,39
+"Luplow, Jordan",656669,Pirates,2018,LF,11,292,-23
+"Longoria, Evan",446334,Giants,2018,3B,23,117,-38
+"McCutchen, Andrew",457705,Giants,2018,RF,19,298,25
+"Belt, Brandon",474832,Giants,2018,1B,18,87,39
+"Hernández, Gorkys",491676,Giants,2018,CF,13,326,-1
+"Crawford, Brandon",543063,Giants,2018,SS,24,142,-21
+"Panik, Joe",605412,Giants,2018,2B,14,149,-5
+"Ozuna, Marcell",542303,Cardinals,2018,LF,11,300,-27
+"Span, Denard",452655,Rays,2018,LF,32,299,-27
+"Gómez, Carlos",460576,Rays,2018,RF,68,297,27
+"Pham, Tommy",502054,Rays,2018,LF,38,288,-31
+"Cron, C.J.",543068,Rays,2018,1B,38,90,39
+"Hechavarría, Adeiny",588751,Rays,2018,SS,52,142,-21
+"Kiermaier, Kevin",595281,Rays,2018,CF,79,327,-2
+"Smith, Mallex",605480,Rays,2018,LF,24,302,-28
+"Smith, Mallex",605480,Rays,2018,RF,32,293,25
+"Smith, Mallex",605480,Rays,2018,CF,53,324,-1
+"Field, Johnny",608654,Rays,2018,RF,17,298,26
+"Robertson, Daniel",621002,Rays,2018,3B,14,114,-37
+"Robertson, Daniel",621002,Rays,2018,SS,18,140,-22
+"Robertson, Daniel",621002,Rays,2018,2B,24,150,-5
+"Wendle, Joey",621563,Rays,2018,2B,75,154,-4
+"Wendle, Joey",621563,Rays,2018,LF,13,299,-29
+"Wendle, Joey",621563,Rays,2018,SS,13,147,-24
+"Wendle, Joey",621563,Rays,2018,3B,17,118,-38
+"Duffy, Matt",622110,Rays,2018,3B,97,115,-37
+"Meadows, Austin",640457,Rays,2018,RF,10,311,22
+"Bauers, Jake",641343,Rays,2018,1B,67,88,39
+"Adames, Willy",642715,Rays,2018,SS,57,141,-22
+"Lowe, Brandon",664040,Rays,2018,2B,30,144,-6
+"Pillar, Kevin",607680,Blue Jays,2018,CF,10,325,1
+"Andrus, Elvis",462101,Athletics,2022,SS,15,146,-21
+"Kemp, Tony",643393,Athletics,2022,2B,12,148,-6
+"Laureano, Ramón",657656,Athletics,2022,RF,10,292,29
+"Brown, Seth",664913,Athletics,2022,1B,14,90,41
+"Pache, Cristian",665506,Athletics,2022,CF,14,325,0
+"Ozuna, Marcell",542303,Braves,2022,LF,55,305,-25
+"Rosario, Eddie",592696,Braves,2022,RF,16,285,29
+"Rosario, Eddie",592696,Braves,2022,LF,33,315,-25
+"Duvall, Adam",594807,Braves,2022,CF,72,328,4
+"Duvall, Adam",594807,Braves,2022,RF,10,297,29
+"Duvall, Adam",594807,Braves,2022,LF,23,307,-24
+"Arcia, Orlando",606115,Braves,2022,LF,10,316,-24
+"Arcia, Orlando",606115,Braves,2022,2B,23,152,-9
+"Swanson, Dansby",621020,Braves,2022,SS,150,142,-25
+"Olson, Matt",621566,Braves,2022,1B,150,88,40
+"Heredia, Guillermo",628338,Braves,2022,RF,20,290,31
+"Heredia, Guillermo",628338,Braves,2022,LF,13,310,-24
+"Demeritte, Travis",641513,Braves,2022,RF,36,290,30
+"Albies, Ozzie",645277,Braves,2022,2B,96,147,-8
+"Acuña Jr., Ronald",660670,Braves,2022,RF,59,292,31
+"Riley, Austin",663586,Braves,2022,3B,145,116,-41
+"Harris II, Michael",671739,Braves,2022,CF,71,322,3
+"Grissom, Vaughn",687093,Braves,2022,2B,20,151,-8
+"Peralta, David",444482,D-backs,2022,LF,64,306,-28
+"Walker, Christian",572233,D-backs,2022,1B,103,87,41
+"Marte, Ketel",606466,D-backs,2022,2B,63,148,-8
+"Alcántara, Sergio",642727,D-backs,2022,3B,22,124,-40
+"Luplow, Jordan",656669,D-backs,2022,RF,15,291,26
+"Luplow, Jordan",656669,D-backs,2022,LF,13,297,-27
+"Rivera, Emmanuel",656896,D-backs,2022,3B,19,123,-38
+"Smith, Pavin",656976,D-backs,2022,RF,32,301,27
+"Smith, Pavin",656976,D-backs,2022,1B,10,90,40
+"Varsho, Daulton",662139,D-backs,2022,CF,33,326,-1
+"Varsho, Daulton",662139,D-backs,2022,RF,39,296,26
+"McCarthy, Jake",664983,D-backs,2022,LF,14,301,-28
+"McCarthy, Jake",664983,D-backs,2022,RF,31,291,28
+"Rojas, Josh",668942,D-backs,2022,3B,61,122,-39
+"Rojas, Josh",668942,D-backs,2022,2B,20,149,-8
+"Kennedy, Buddy",671083,D-backs,2022,2B,15,147,-7
+"Perdomo, Geraldo",672695,D-backs,2022,SS,102,142,-23
+"Thomas, Alek",677950,D-backs,2022,CF,76,321,-1
+"Carroll, Corbin",682998,D-backs,2022,LF,17,300,-28
+"Odor, Rougned",596059,Orioles,2022,2B,56,147,-5
+"Urías, Ramón",602104,Orioles,2022,3B,34,116,-38
+"Mateo, Jorge",622761,Orioles,2022,SS,54,141,-21
+"Santander, Anthony",623993,Orioles,2022,LF,15,305,-26
+"Santander, Anthony",623993,Orioles,2022,RF,35,294,28
+"Mancini, Trey",641820,Orioles,2022,1B,21,87,41
+"Mullins, Cedric",656775,Orioles,2022,CF,57,321,2
+"Nevin, Tyler",663527,Orioles,2022,3B,17,113,-37
+"Mountcastle, Ryan",663624,Orioles,2022,1B,42,86,43
+"Hays, Austin",669720,Orioles,2022,RF,20,294,28
+"Hays, Austin",669720,Orioles,2022,LF,42,309,-25
+"Pham, Tommy",502054,Red Sox,2022,LF,14,303,-30
+"Hernández, Enrique",571771,Red Sox,2022,CF,18,333,-3
+"Bogaerts, Xander",593428,Red Sox,2022,SS,37,148,-23
+"Story, Trevor",596115,Red Sox,2022,2B,24,151,-7
+"Bradley Jr., Jackie",598265,Red Sox,2022,RF,19,293,27
+"Cordero, Franchy",614173,Red Sox,2022,1B,13,88,39
+"Arroyo, Christian",624414,Red Sox,2022,2B,10,154,-6
+"Devers, Rafael",646240,Red Sox,2022,3B,41,123,-38
+"Verdugo, Alex",657077,Red Sox,2022,LF,28,298,-30
+"Verdugo, Alex",657077,Red Sox,2022,RF,13,288,27
+"Dalbec, Bobby",666915,Red Sox,2022,1B,19,86,41
+"Duran, Jarren",680776,Red Sox,2022,CF,16,328,-2
+"Heyward, Jason",518792,Cubs,2022,RF,25,299,26
+"Heyward, Jason",518792,Cubs,2022,CF,24,318,3
+"Villar, Jonathan",542340,Cubs,2022,2B,15,147,-7
+"Villar, Jonathan",542340,Cubs,2022,3B,21,111,-40
+"Ortega, Rafael",542364,Cubs,2022,RF,11,292,27
+"Ortega, Rafael",542364,Cubs,2022,CF,28,327,0
+"Simmons, Andrelton",592743,Cubs,2022,2B,24,149,-7
+"Wisdom, Patrick",621550,Cubs,2022,1B,15,88,41
+"Wisdom, Patrick",621550,Cubs,2022,3B,86,117,-40
+"Bote, David",623520,Cubs,2022,2B,11,147,-7
+"Frazier, Clint",640449,Cubs,2022,LF,10,299,-26
+"Hermosillo, Michael",641684,Cubs,2022,CF,13,323,1
+"Schwindel, Frank",643524,Cubs,2022,1B,46,87,41
+"McKinstry, Zach",656716,Cubs,2022,3B,24,122,-39
+"Hoerner, Nico",663538,Cubs,2022,SS,139,142,-23
+"Madrigal, Nick",663611,Cubs,2022,2B,68,148,-6
+"Rivas III, Alfonso",663845,Cubs,2022,1B,64,87,42
+"Happ, Ian",664023,Cubs,2022,LF,124,308,-27
+"Higgins, P.J.",664731,Cubs,2022,1B,17,88,41
+"Morel, Christopher",666624,Cubs,2022,3B,12,118,-38
+"Morel, Christopher",666624,Cubs,2022,2B,21,150,-6
+"Morel, Christopher",666624,Cubs,2022,CF,62,327,1
+"Suzuki, Seiya",673548,Cubs,2022,RF,86,293,28
+"Velázquez, Nelson",676369,Cubs,2022,RF,14,290,27
+"Velázquez, Nelson",676369,Cubs,2022,CF,16,321,0
+"Votto, Joey",458015,Reds,2022,1B,24,91,40
+"Pham, Tommy",502054,Reds,2022,LF,23,303,-28
+"Farmer, Kyle",571657,Reds,2022,SS,26,143,-22
+"Farmer, Kyle",571657,Reds,2022,3B,13,121,-38
+"Drury, Brandon",592273,Reds,2022,3B,11,125,-39
+"Aquino, Aristides",606157,Reds,2022,RF,29,292,27
+"Fraley, Jake",641584,Reds,2022,LF,10,300,-26
+"India, Jonathan",663697,Reds,2022,2B,26,149,-5
+"Lopez, Alejo",664670,Reds,2022,2B,12,151,-6
+"Senzel, Nick",669222,Reds,2022,CF,20,326,0
+"Friedl, TJ",670770,Reds,2022,CF,11,323,3
+"Barrero, José",676480,Reds,2022,SS,18,146,-21
+"Ramírez, José",608070,Guardians,2022,3B,32,124,-39
+"Rosario, Amed",642708,Guardians,2022,SS,34,144,-23
+"Naylor, Josh",647304,Guardians,2022,1B,12,88,39
+"Gonzalez, Oscar",660757,Guardians,2022,RF,24,294,29
+"Straw, Myles",664702,Guardians,2022,CF,35,324,2
+"Giménez, Andrés",665926,Guardians,2022,2B,31,152,-7
+"Kwan, Steven",680757,Guardians,2022,LF,22,304,-27
+"Miller, Owen",680911,Guardians,2022,1B,20,88,41
+"Blackmon, Charlie",453568,Rockies,2022,RF,14,300,27
+"Cron, C.J.",543068,Rockies,2022,1B,52,88,41
+"Grichuk, Randal",545341,Rockies,2022,CF,18,323,1
+"Grichuk, Randal",545341,Rockies,2022,RF,35,293,29
+"Iglesias, Jose",578428,Rockies,2022,SS,44,144,-21
+"Bryant, Kris",592178,Rockies,2022,LF,12,299,-26
+"Daza, Yonathan",602074,Rockies,2022,CF,30,327,1
+"Hampson, Garrett",641658,Rockies,2022,SS,10,146,-22
+"McMahon, Ryan",641857,Rockies,2022,3B,53,128,-37
+"Hilliard, Sam",656541,Rockies,2022,LF,13,310,-26
+"Joe, Connor",656582,Rockies,2022,LF,26,307,-27
+"Rodgers, Brendan",663898,Rockies,2022,2B,53,153,-5
+"Harrison, Josh",543281,White Sox,2022,2B,40,152,-4
+"Harrison, Josh",543281,White Sox,2022,3B,12,116,-39
+"García, Leury",544725,White Sox,2022,2B,17,150,-5
+"Abreu, José",547989,White Sox,2022,1B,40,86,42
+"Pollock, AJ",572041,White Sox,2022,LF,30,300,-30
+"Anderson, Tim",641313,White Sox,2022,SS,31,144,-21
+"Engel, Adam",641553,White Sox,2022,RF,16,298,26
+"Jiménez, Eloy",650391,White Sox,2022,LF,19,304,-30
+"Sheets, Gavin",657757,White Sox,2022,RF,28,304,27
+"Moncada, Yoán",660162,White Sox,2022,3B,37,115,-38
+"Mendick, Danny",664901,White Sox,2022,SS,10,140,-21
+"Robert Jr., Luis",673357,White Sox,2022,CF,43,327,-3
+"Vaughn, Andrew",683734,White Sox,2022,1B,17,88,42
+"Grossman, Robbie",543257,Tigers,2022,LF,29,308,-27
+"Grossman, Robbie",543257,Tigers,2022,RF,28,294,27
+"Schoop, Jonathan",570731,Tigers,2022,2B,108,147,-5
+"Báez, Javier",595879,Tigers,2022,SS,118,140,-24
+"Candelario, Jeimer",600869,Tigers,2022,3B,119,118,-38
+"Castro, Harold",605612,Tigers,2022,2B,16,148,-6
+"Castro, Harold",605612,Tigers,2022,1B,47,88,40
+"Castro, Harold",605612,Tigers,2022,3B,15,116,-36
+"Castro, Harold",605612,Tigers,2022,SS,13,142,-22
+"Reyes, Victor",622682,Tigers,2022,LF,10,312,-27
+"Reyes, Victor",622682,Tigers,2022,RF,65,297,26
+"Meadows, Austin",640457,Tigers,2022,LF,10,314,-26
+"Castro, Willi",650489,Tigers,2022,RF,25,293,26
+"Castro, Willi",650489,Tigers,2022,2B,18,148,-6
+"Castro, Willi",650489,Tigers,2022,LF,27,306,-27
+"Castro, Willi",650489,Tigers,2022,CF,13,338,-2
+"Hill, Derek",656537,Tigers,2022,CF,28,330,-2
+"Cameron, Daz",663662,Tigers,2022,RF,15,289,26
+"Baddoo, Akil",668731,Tigers,2022,CF,11,330,-1
+"Baddoo, Akil",668731,Tigers,2022,LF,52,305,-27
+"Kreidler, Ryan",668952,Tigers,2022,SS,11,142,-22
+"Torkelson, Spencer",679529,Tigers,2022,1B,100,88,41
+"Carpenter, Kerry",681481,Tigers,2022,LF,11,312,-27
+"Greene, Riley",682985,Tigers,2022,CF,91,331,-1
+"Brantley, Michael",488726,Astros,2022,LF,28,304,-26
+"Gurriel, Yuli",493329,Astros,2022,1B,125,89,41
+"Altuve, Jose",514888,Astros,2022,2B,117,149,-5
+"Bregman, Alex",608324,Astros,2022,3B,138,115,-37
+"Mancini, Trey",641820,Astros,2022,LF,11,301,-27
+"Siri, Jose",642350,Astros,2022,CF,40,326,0
+"Dubón, Mauricio",643289,Astros,2022,2B,10,149,-4
+"Dubón, Mauricio",643289,Astros,2022,CF,23,320,1
+"Díaz, Aledmys",649557,Astros,2022,LF,11,315,-27
+"Díaz, Aledmys",649557,Astros,2022,2B,12,147,-2
+"Matijevic, J.J.",656695,Astros,2022,1B,11,89,41
+"Tucker, Kyle",663656,Astros,2022,RF,131,291,28
+"Peña, Jeremy",665161,Astros,2022,SS,126,142,-22
+"Alvarez, Yordan",670541,Astros,2022,LF,43,303,-28
+"Meyers, Jake",676694,Astros,2022,CF,40,325,2
+"McCormick, Chas",676801,Astros,2022,CF,42,325,-3
+"McCormick, Chas",676801,Astros,2022,LF,48,307,-27
+"Santana, Carlos",467793,Royals,2022,1B,28,88,40
+"Taylor, Michael A.",572191,Royals,2022,CF,57,324,-1
+"Merrifield, Whit",593160,Royals,2022,RF,19,295,25
+"Merrifield, Whit",593160,Royals,2022,2B,28,152,-4
+"Dozier, Hunter",641531,Royals,2022,3B,10,119,-38
+"Dozier, Hunter",641531,Royals,2022,1B,19,88,42
+"Dozier, Hunter",641531,Royals,2022,RF,14,294,26
+"Benintendi, Andrew",643217,Royals,2022,LF,50,305,-28
+"Rivera, Emmanuel",656896,Royals,2022,3B,42,120,-38
+"Olivares, Edward",658668,Royals,2022,RF,12,299,26
+"Isbel, Kyle",664728,Royals,2022,RF,14,294,26
+"Isbel, Kyle",664728,Royals,2022,CF,16,326,0
+"Pratto, Nick",668472,Royals,2022,1B,18,89,40
+"Melendez, MJ",669004,Royals,2022,RF,14,304,25
+"Melendez, MJ",669004,Royals,2022,LF,12,306,-28
+"Lopez, Nicky",670032,Royals,2022,3B,15,119,-39
+"Lopez, Nicky",670032,Royals,2022,SS,19,141,-21
+"Lopez, Nicky",670032,Royals,2022,2B,36,153,-2
+"Witt Jr., Bobby",677951,Royals,2022,SS,64,145,-21
+"Witt Jr., Bobby",677951,Royals,2022,3B,17,118,-38
+"Pasquantino, Vinnie",686469,Royals,2022,1B,21,86,42
+"Massey, Michael",686681,Royals,2022,2B,25,151,-5
+"Rendon, Anthony",543685,Angels,2022,3B,36,115,-37
+"Trout, Mike",545361,Angels,2022,CF,82,324,1
+"Gosselin, Phil",594838,Angels,2022,3B,10,126,-39
+"Ward, Taylor",621493,Angels,2022,RF,101,289,26
+"Duffy, Matt",622110,Angels,2022,3B,26,121,-39
+"Duffy, Matt",622110,Angels,2022,1B,12,87,42
+"Velazquez, Andrew",623205,Angels,2022,SS,93,142,-22
+"Wade, Tyler",642180,Angels,2022,2B,26,153,-6
+"Wade, Tyler",642180,Angels,2022,3B,13,118,-38
+"Sierra, Magneuris",642423,Angels,2022,CF,23,325,-1
+"Ford, Mike",645801,Angels,2022,1B,20,86,43
+"Rengifo, Luis",650859,Angels,2022,3B,24,120,-38
+"Rengifo, Luis",650859,Angels,2022,2B,74,150,-7
+"Fletcher, David",664058,Angels,2022,SS,16,143,-24
+"Fletcher, David",664058,Angels,2022,2B,24,151,-7
+"Walsh, Jared",665120,Angels,2022,1B,94,89,41
+"Moniak, Mickey",666160,Angels,2022,LF,11,303,-25
+"Adell, Jo",666176,Angels,2022,LF,31,297,-26
+"Adell, Jo",666176,Angels,2022,RF,11,295,26
+"Marsh, Brandon",669016,Angels,2022,LF,64,297,-25
+"Soto, Livan",670869,Angels,2022,SS,16,144,-24
+"Turner, Justin",457759,Dodgers,2022,3B,116,116,-39
+"Freeman, Freddie",518692,Dodgers,2022,1B,302,86,41
+"Lamb, Jake",571875,Dodgers,2022,LF,10,307,-27
+"Muncy, Max",571970,Dodgers,2022,3B,174,117,-38
+"Muncy, Max",571970,Dodgers,2022,2B,51,151,-5
+"Thompson, Trayce",572204,Dodgers,2022,LF,44,304,-28
+"Thompson, Trayce",572204,Dodgers,2022,CF,34,318,0
+"Thompson, Trayce",572204,Dodgers,2022,RF,37,288,27
+"Alberto, Hanser",593643,Dodgers,2022,3B,22,118,-39
+"Alberto, Hanser",593643,Dodgers,2022,2B,37,148,-7
+"Betts, Mookie",605141,Dodgers,2022,2B,14,148,-5
+"Betts, Mookie",605141,Dodgers,2022,RF,253,284,26
+"Turner, Trea",607208,Dodgers,2022,SS,314,143,-23
+"Gallo, Joey",608336,Dodgers,2022,RF,10,289,29
+"Gallo, Joey",608336,Dodgers,2022,LF,67,301,-28
+"Taylor, Chris",621035,Dodgers,2022,CF,14,320,1
+"Taylor, Chris",621035,Dodgers,2022,LF,145,301,-27
+"Taylor, Chris",621035,Dodgers,2022,2B,32,151,-4
+"Taylor, Chris",621035,Dodgers,2022,RF,14,286,26
+"Bellinger, Cody",641355,Dodgers,2022,CF,275,316,0
+"Lux, Gavin",666158,Dodgers,2022,2B,189,150,-5
+"Lux, Gavin",666158,Dodgers,2022,LF,38,303,-28
+"Vargas, Miguel",678246,Dodgers,2022,1B,15,90,41
+"Rojas, Miguel",500743,Marlins,2022,SS,137,143,-19
+"García, Avisaíl",541645,Marlins,2022,RF,92,293,27
+"Aguilar, Jesús",542583,Marlins,2022,1B,59,87,42
+"Berti, Jon",542932,Marlins,2022,2B,45,149,-5
+"Berti, Jon",542932,Marlins,2022,3B,33,115,-36
+"Berti, Jon",542932,Marlins,2022,LF,13,303,-26
+"González, Erik",570481,Marlins,2022,3B,11,120,-38
+"Anderson, Brian",605119,Marlins,2022,LF,12,299,-28
+"Anderson, Brian",605119,Marlins,2022,RF,40,293,26
+"Anderson, Brian",605119,Marlins,2022,3B,47,122,-36
+"Wendle, Joey",621563,Marlins,2022,SS,32,145,-22
+"Wendle, Joey",621563,Marlins,2022,3B,40,121,-37
+"Wendle, Joey",621563,Marlins,2022,2B,22,152,-4
+"Soler, Jorge",624585,Marlins,2022,LF,65,300,-26
+"Leblanc, Charles",641779,Marlins,2022,2B,27,151,-5
+"Cooper, Garrett",643265,Marlins,2022,1B,63,87,42
+"Díaz, Lewin",650331,Marlins,2022,1B,45,87,42
+"De La Cruz, Bryan",650559,Marlins,2022,RF,37,294,26
+"De La Cruz, Bryan",650559,Marlins,2022,LF,19,298,-27
+"De La Cruz, Bryan",650559,Marlins,2022,CF,42,318,0
+"Sánchez, Jesús",660821,Marlins,2022,CF,92,320,0
+"Williams, Luke",663897,Marlins,2022,2B,10,150,-4
+"Williams, Luke",663897,Marlins,2022,LF,19,301,-25
+"Chisholm Jr., Jazz",665862,Marlins,2022,2B,71,147,-4
+"Encarnacion, Jerar",666464,Marlins,2022,LF,12,310,-26
+"Bleday, JJ",668709,Marlins,2022,LF,19,296,-28
+"Bleday, JJ",668709,Marlins,2022,CF,30,321,-1
+"Groshans, Jordan",677954,Marlins,2022,3B,24,114,-37
+"Burdick, Peyton",680814,Marlins,2022,CF,13,323,-2
+"Burdick, Peyton",680814,Marlins,2022,LF,13,305,-26
+"Cain, Lorenzo",456715,Brewers,2022,CF,28,323,-1
+"McCutchen, Andrew",457705,Brewers,2022,LF,19,301,-28
+"Wong, Kolten",543939,Brewers,2022,2B,52,151,-4
+"Renfroe, Hunter",592669,Brewers,2022,RF,46,295,28
+"Yelich, Christian",592885,Brewers,2022,LF,40,298,-29
+"Peterson, Jace",607054,Brewers,2022,3B,28,119,-38
+"Taylor, Tyrone",621438,Brewers,2022,RF,12,295,27
+"Taylor, Tyrone",621438,Brewers,2022,CF,22,324,-1
+"Taylor, Tyrone",621438,Brewers,2022,LF,12,303,-29
+"Davis, Jonathan",641505,Brewers,2022,CF,17,318,-2
+"Tellez, Rowdy",642133,Brewers,2022,1B,53,89,41
+"Adames, Willy",642715,Brewers,2022,SS,51,143,-24
+"Urías, Luis",649966,Brewers,2022,SS,18,142,-23
+"Urías, Luis",649966,Brewers,2022,3B,22,118,-40
+"Urías, Luis",649966,Brewers,2022,2B,12,156,-6
+"Hiura, Keston",669374,Brewers,2022,1B,16,86,42
+"Brosseau, Mike",670712,Brewers,2022,3B,19,121,-38
+"Urshela, Gio",570482,Twins,2022,3B,128,121,-39
+"Polanco, Jorge",593871,Twins,2022,2B,111,150,-6
+"Cave, Jake",595909,Twins,2022,LF,41,297,-27
+"Cave, Jake",595909,Twins,2022,RF,10,292,28
+"Kepler, Max",596146,Twins,2022,RF,105,291,29
+"Correa, Carlos",621043,Twins,2022,SS,124,146,-23
+"Buxton, Byron",621439,Twins,2022,CF,41,328,1
+"Gordon, Nick",624503,Twins,2022,LF,49,304,-28
+"Gordon, Nick",624503,Twins,2022,CF,31,328,1
+"Gordon, Nick",624503,Twins,2022,2B,34,151,-7
+"Arraez, Luis",650333,Twins,2022,1B,64,89,42
+"Arraez, Luis",650333,Twins,2022,2B,25,151,-5
+"Palacios, Jermaine",650339,Twins,2022,SS,14,141,-25
+"Larnach, Trevor",663616,Twins,2022,LF,23,301,-27
+"Garlick, Kyle",664247,Twins,2022,RF,24,293,29
+"Garlick, Kyle",664247,Twins,2022,LF,17,303,-27
+"Celestino, Gilberto",665482,Twins,2022,LF,14,308,-27
+"Celestino, Gilberto",665482,Twins,2022,CF,91,330,0
+"Kirilloff, Alex",666135,Twins,2022,LF,17,302,-27
+"Kirilloff, Alex",666135,Twins,2022,1B,19,91,40
+"Kirilloff, Alex",666135,Twins,2022,RF,10,298,30
+"Lewis, Royce",668904,Twins,2022,SS,23,145,-25
+"Miranda, Jose",669304,Twins,2022,3B,45,124,-40
+"Miranda, Jose",669304,Twins,2022,1B,79,89,41
+"Wallner, Matt",670242,Twins,2022,RF,12,295,28
+"Escobar, Eduardo",500871,Mets,2022,3B,141,119,-39
+"Marte, Starling",516782,Mets,2022,RF,123,298,28
+"Canha, Mark",592192,Mets,2022,RF,11,291,28
+"Canha, Mark",592192,Mets,2022,LF,100,305,-26
+"Lindor, Francisco",596019,Mets,2022,SS,157,142,-22
+"Davis, J.D.",605204,Mets,2022,3B,10,116,-38
+"Nimmo, Brandon",607043,Mets,2022,CF,146,328,1
+"Jankowski, Travis",608671,Mets,2022,CF,11,331,1
+"Jankowski, Travis",608671,Mets,2022,RF,25,301,28
+"Alonso, Pete",624413,Mets,2022,1B,120,88,41
+"Guillorme, Luis",641645,Mets,2022,3B,14,118,-36
+"Guillorme, Luis",641645,Mets,2022,2B,85,152,-3
+"Smith, Dominic",642086,Mets,2022,1B,39,87,39
+"McNeil, Jeff",643446,Mets,2022,LF,57,306,-28
+"McNeil, Jeff",643446,Mets,2022,2B,74,148,-3
+"Donaldson, Josh",518626,Yankees,2022,3B,26,122,-38
+"Rizzo, Anthony",519203,Yankees,2022,1B,18,91,39
+"Hicks, Aaron",543305,Yankees,2022,CF,19,325,0
+"Judge, Aaron",592450,Yankees,2022,RF,10,290,26
+"Judge, Aaron",592450,Yankees,2022,CF,11,328,0
+"Benintendi, Andrew",643217,Yankees,2022,LF,10,292,-27
+"Kiner-Falefa, Isiah",643396,Yankees,2022,SS,25,143,-23
+"Torres, Gleyber",650402,Yankees,2022,2B,24,152,-7
+"Cabrera, Oswaldo",665828,Yankees,2022,RF,10,287,24
+"Segura, Jean",516416,Phillies,2022,2B,44,150,-6
+"Gregorius, Didi",544369,Phillies,2022,SS,41,140,-21
+"Herrera, Odúbel",546318,Phillies,2022,CF,20,331,2
+"Castellanos, Nick",592206,Phillies,2022,RF,62,292,28
+"Camargo, Johan",622666,Phillies,2022,SS,11,144,-22
+"Hoskins, Rhys",656555,Phillies,2022,1B,77,88,40
+"Schwarber, Kyle",656941,Phillies,2022,LF,71,309,-27
+"Vierling, Matt",663837,Phillies,2022,CF,29,332,1
+"Bohm, Alec",664761,Phillies,2022,3B,63,119,-38
+"Moniak, Mickey",666160,Phillies,2022,CF,15,332,-1
+"Marsh, Brandon",669016,Phillies,2022,CF,10,325,-1
+"Stott, Bryson",681082,Phillies,2022,2B,29,145,-4
+"Stott, Bryson",681082,Phillies,2022,SS,28,141,-23
+"Gamel, Ben",592325,Pirates,2022,RF,12,297,27
+"Gamel, Ben",592325,Pirates,2022,LF,12,309,-28
+"Newman, Kevin",621028,Pirates,2022,SS,10,140,-20
+"VanMeter, Josh",642165,Pirates,2022,2B,11,148,-5
+"Chavis, Michael",656308,Pirates,2022,1B,44,87,41
+"Castillo, Diego",660636,Pirates,2022,SS,20,143,-22
+"Castillo, Diego",660636,Pirates,2022,2B,10,148,-5
+"Hayes, Ke'Bryan",663647,Pirates,2022,3B,50,115,-37
+"Cruz, Oneil",665833,Pirates,2022,SS,16,143,-20
+"Castro, Rodolfo",666801,Pirates,2022,SS,13,145,-20
+"Castro, Rodolfo",666801,Pirates,2022,2B,12,151,-5
+"Mitchell, Cal",668751,Pirates,2022,RF,23,298,27
+"Reynolds, Bryan",668804,Pirates,2022,CF,49,329,0
+"Suwinski, Jack",669261,Pirates,2022,RF,17,303,26
+"Suwinski, Jack",669261,Pirates,2022,LF,12,304,-25
+"Marcano, Tucupita",672779,Pirates,2022,2B,14,150,-5
+"Marcano, Tucupita",672779,Pirates,2022,LF,19,304,-27
+"Hosmer, Eric",543333,Padres,2022,1B,13,88,39
+"Machado, Manny",592518,Padres,2022,3B,15,122,-39
+"Profar, Jurickson",595777,Padres,2022,LF,18,301,-30
+"Cronenworth, Jake",630105,Padres,2022,2B,17,151,-7
+"Grisham, Trent",663757,Padres,2022,CF,17,327,0
+"Kim, Ha-Seong",673490,Padres,2022,SS,15,144,-23
+"Suárez, Eugenio",553993,Mariners,2022,3B,20,126,-39
+"Winker, Jesse",608385,Mariners,2022,LF,21,304,-25
+"Frazier, Adam",624428,Mariners,2022,2B,17,153,-6
+"Crawford, J.P.",641487,Mariners,2022,SS,21,143,-23
+"France, Ty",664034,Mariners,2022,1B,20,97,35
+"Rodríguez, Julio",677594,Mariners,2022,CF,21,324,1
+"Longoria, Evan",446334,Giants,2022,3B,41,117,-38
+"Belt, Brandon",474832,Giants,2022,1B,29,90,38
+"Flores, Wilmer",527038,Giants,2022,2B,23,152,-5
+"Flores, Wilmer",527038,Giants,2022,3B,16,112,-36
+"Flores, Wilmer",527038,Giants,2022,1B,28,89,40
+"Crawford, Brandon",543063,Giants,2022,SS,69,141,-21
+"Ruf, Darin",573131,Giants,2022,1B,19,90,40
+"Yastrzemski, Mike",573262,Giants,2022,CF,50,329,1
+"Yastrzemski, Mike",573262,Giants,2022,RF,27,292,27
+"Pederson, Joc",592626,Giants,2022,RF,10,288,25
+"Pederson, Joc",592626,Giants,2022,LF,49,299,-25
+"Slater, Austin",596103,Giants,2022,CF,34,329,1
+"Vosler, Jason",613564,Giants,2022,3B,16,118,-38
+"Walton, Donovan",622268,Giants,2022,2B,14,154,-4
+"Estrada, Thairo",642731,Giants,2022,2B,51,151,-4
+"Estrada, Thairo",642731,Giants,2022,SS,16,142,-21
+"Wade Jr., LaMonte",664774,Giants,2022,LF,10,307,-26
+"Wade Jr., LaMonte",664774,Giants,2022,RF,13,296,27
+"Wade Jr., LaMonte",664774,Giants,2022,1B,11,87,40
+"González, Luis",670768,Giants,2022,RF,40,288,27
+"González, Luis",670768,Giants,2022,LF,18,305,-24
+"Villar, David",681584,Giants,2022,3B,13,117,-37
+"Goldschmidt, Paul",502671,Cardinals,2022,1B,45,88,41
+"Arenado, Nolan",571448,Cardinals,2022,3B,55,121,-37
+"Dickerson, Corey",572816,Cardinals,2022,LF,20,307,-28
+"O'Neill, Tyler",641933,Cardinals,2022,LF,28,299,-28
+"DeJong, Paul",657557,Cardinals,2022,SS,25,141,-20
+"Yepez, Juan",660766,Cardinals,2022,1B,10,97,35
+"Nootbaar, Lars",663457,Cardinals,2022,RF,26,302,27
+"Bader, Harrison",664056,Cardinals,2022,CF,44,334,-1
+"Carlson, Dylan",666185,Cardinals,2022,CF,17,324,0
+"Carlson, Dylan",666185,Cardinals,2022,RF,33,295,27
+"Edman, Tommy",669242,Cardinals,2022,2B,27,153,-5
+"Edman, Tommy",669242,Cardinals,2022,SS,37,144,-21
+"Gorman, Nolan",669357,Cardinals,2022,2B,42,150,-5
+"Donovan, Brendan",680977,Cardinals,2022,1B,11,93,40
+"Donovan, Brendan",680977,Cardinals,2022,LF,13,306,-27
+"Peralta, David",444482,Rays,2022,LF,17,304,-28
+"Kiermaier, Kevin",595281,Rays,2022,CF,35,327,0
+"Choi, Ji Man",596847,Rays,2022,1B,36,89,39
+"Phillips, Brett",621433,Rays,2022,RF,15,301,26
+"Margot, Manuel",622534,Rays,2022,RF,23,292,26
+"Ramírez, Harold",623912,Rays,2022,1B,14,88,41
+"Siri, Jose",642350,Rays,2022,CF,19,328,-1
+"Díaz, Yandy",650490,Rays,2022,1B,11,88,41
+"Díaz, Yandy",650490,Rays,2022,3B,36,112,-40
+"Lowe, Brandon",664040,Rays,2022,2B,25,147,-5
+"Lowe, Josh",666139,Rays,2022,RF,10,302,26
+"Arozarena, Randy",668227,Rays,2022,LF,34,311,-29
+"Paredes, Isaac",670623,Rays,2022,3B,18,118,-41
+"Walls, Taylor",670764,Rays,2022,2B,15,150,-5
+"Walls, Taylor",670764,Rays,2022,SS,28,141,-24
+"Franco, Wander",677551,Rays,2022,SS,36,140,-25
+"Culberson, Charlie",518586,Rangers,2022,3B,30,122,-38
+"Miller, Brad",543543,Rangers,2022,3B,18,112,-38
+"Miller, Brad",543543,Rangers,2022,LF,11,299,-27
+"Semien, Marcus",543760,Rangers,2022,2B,142,151,-6
+"Calhoun, Kole",594777,Rangers,2022,RF,54,296,27
+"Calhoun, Kole",594777,Rangers,2022,LF,18,298,-28
+"Seager, Corey",608369,Rangers,2022,SS,138,142,-23
+"Ibáñez, Andy",628451,Rangers,2022,3B,17,119,-39
+"Ibáñez, Andy",628451,Rangers,2022,1B,10,90,40
+"White, Eli",642201,Rangers,2022,LF,18,298,-27
+"White, Eli",642201,Rangers,2022,CF,23,316,2
+"Lowe, Nathaniel",663993,Rangers,2022,1B,135,87,41
+"Taveras, Leody",665750,Rangers,2022,CF,72,319,1
+"García, Adolis",666969,Rangers,2022,RF,84,295,27
+"García, Adolis",666969,Rangers,2022,CF,44,324,0
+"Solak, Nick",669256,Rangers,2022,LF,26,303,-26
+"Thompson, Bubba",669352,Rangers,2022,RF,11,294,28
+"Thompson, Bubba",669352,Rangers,2022,CF,10,317,-1
+"Thompson, Bubba",669352,Rangers,2022,LF,31,300,-27
+"Smith, Josh",669701,Rangers,2022,LF,21,309,-29
+"Smith, Josh",669701,Rangers,2022,3B,16,116,-40
+"Jung, Josh",673962,Rangers,2022,3B,19,118,-40
+"Duran, Ezequiel",677649,Rangers,2022,3B,50,122,-41
+"Springer, George",543807,Blue Jays,2022,CF,118,317,3
+"Springer, George",543807,Blue Jays,2022,RF,13,284,29
+"Merrifield, Whit",593160,Blue Jays,2022,2B,15,152,-4
+"Bradley Jr., Jackie",598265,Blue Jays,2022,CF,10,326,1
+"Zimmer, Bradley",605548,Blue Jays,2022,CF,47,319,3
+"Tapia, Raimel",606132,Blue Jays,2022,LF,56,305,-26
+"Tapia, Raimel",606132,Blue Jays,2022,CF,35,319,2
+"Tapia, Raimel",606132,Blue Jays,2022,RF,53,290,32
+"Hernández, Teoscar",606192,Blue Jays,2022,RF,135,291,28
+"Biggio, Cavan",624415,Blue Jays,2022,1B,53,87,41
+"Biggio, Cavan",624415,Blue Jays,2022,2B,42,150,-4
+"Chapman, Matt",656305,Blue Jays,2022,3B,197,120,-38
+"Guerrero Jr., Vladimir",665489,Blue Jays,2022,1B,157,87,41
+"Bichette, Bo",666182,Blue Jays,2022,SS,213,144,-22
+"Gurriel Jr., Lourdes",666971,Blue Jays,2022,LF,155,308,-24
+"Espinal, Santiago",669289,Blue Jays,2022,2B,157,150,-4
+"Espinal, Santiago",669289,Blue Jays,2022,3B,19,118,-36
+"Escobar, Alcides",444876,Nationals,2022,SS,12,142,-22
+"Hernández, César",514917,Nationals,2022,2B,42,152,-7
+"Franco, Maikel",596748,Nationals,2022,3B,36,122,-38
+"Bell, Josh",605137,Nationals,2022,1B,41,90,40
+"Hernandez, Yadiel",628450,Nationals,2022,LF,25,304,-28
+"Robles, Victor",645302,Nationals,2022,CF,33,323,-1
+"Thomas, Lane",657041,Nationals,2022,LF,15,306,-28
+"Soto, Juan",665742,Nationals,2022,RF,36,292,27
+"García Jr., Luis",671277,Nationals,2022,SS,18,145,-23
+"Markakis, Nick",455976,Braves,2019,RF,38,295,27
+"Donaldson, Josh",518626,Braves,2019,3B,46,116,-40
+"Freeman, Freddie",518692,Braves,2019,1B,51,85,41
+"Swanson, Dansby",621020,Braves,2019,SS,41,141,-24
+"Albies, Ozzie",645277,Braves,2019,2B,50,145,-6
+"Acuña Jr., Ronald",660670,Braves,2019,CF,41,331,2
+"Riley, Austin",663586,Braves,2019,LF,27,309,-26
+"Jones, Adam",430945,D-backs,2019,RF,100,302,27
+"Peralta, David",444482,D-backs,2019,LF,71,300,-26
+"Escobar, Eduardo",500871,D-backs,2019,2B,20,148,-7
+"Escobar, Eduardo",500871,D-backs,2019,3B,90,122,-37
+"Dyson, Jarrod",502481,D-backs,2019,CF,38,327,0
+"Dyson, Jarrod",502481,D-backs,2019,RF,17,298,27
+"Flores, Wilmer",527038,D-backs,2019,2B,44,151,-6
+"Vargas, Ildemaro",545121,D-backs,2019,3B,15,126,-39
+"Vargas, Ildemaro",545121,D-backs,2019,2B,35,149,-6
+"Lamb, Jake",571875,D-backs,2019,3B,22,120,-36
+"Walker, Christian",572233,D-backs,2019,1B,99,88,41
+"Ahmed, Nick",605113,D-backs,2019,SS,120,145,-22
+"Cron, Kevin",605196,D-backs,2019,1B,16,90,39
+"Marte, Ketel",606466,D-backs,2019,2B,28,150,-7
+"Marte, Ketel",606466,D-backs,2019,CF,81,329,1
+"Locastro, Tim",641796,D-backs,2019,LF,31,307,-26
+"Rojas, Josh",668942,D-backs,2019,LF,14,310,-29
+"Davis, Chris",448801,Orioles,2019,1B,119,87,39
+"Villar, Jonathan",542340,Orioles,2019,SS,75,142,-22
+"Villar, Jonathan",542340,Orioles,2019,2B,87,149,-6
+"Broxton, Keon",542979,Orioles,2019,CF,34,323,3
+"Ruiz, Rio",547004,Orioles,2019,3B,105,122,-38
+"Rickard, Joey",572073,Orioles,2019,CF,18,331,4
+"Rickard, Joey",572073,Orioles,2019,RF,16,298,27
+"Rickard, Joey",572073,Orioles,2019,LF,11,317,-26
+"Wilkerson, Stevie",592859,Orioles,2019,LF,20,309,-27
+"Wilkerson, Stevie",592859,Orioles,2019,CF,73,331,3
+"Alberto, Hanser",593643,Orioles,2019,2B,70,148,-6
+"Alberto, Hanser",593643,Orioles,2019,3B,49,117,-39
+"Smith Jr., Dwight",596105,Orioles,2019,LF,77,316,-25
+"Núñez, Renato",600524,Orioles,2019,1B,17,88,41
+"Peterson, Jace",607054,Orioles,2019,LF,11,305,-28
+"Peterson, Jace",607054,Orioles,2019,3B,12,116,-39
+"Martin Jr., Richie",621006,Orioles,2019,SS,92,139,-23
+"Santander, Anthony",623993,Orioles,2019,LF,41,314,-26
+"Santander, Anthony",623993,Orioles,2019,CF,13,335,1
+"Santander, Anthony",623993,Orioles,2019,RF,31,304,28
+"Mancini, Trey",641820,Orioles,2019,1B,28,87,40
+"Mancini, Trey",641820,Orioles,2019,RF,102,298,29
+"Mullins, Cedric",656775,Orioles,2019,CF,21,334,3
+"Descalso, Daniel",518614,Cubs,2019,2B,11,148,-6
+"Heyward, Jason",518792,Cubs,2019,RF,13,295,29
+"Heyward, Jason",518792,Cubs,2019,CF,12,322,0
+"Rizzo, Anthony",519203,Cubs,2019,1B,24,88,40
+"Almora Jr., Albert",546991,Cubs,2019,CF,15,321,0
+"Bryant, Kris",592178,Cubs,2019,3B,22,113,-37
+"Báez, Javier",595879,Cubs,2019,SS,21,147,-23
+"Schwarber, Kyle",656941,Cubs,2019,LF,23,300,-29
+"Votto, Joey",458015,Reds,2019,1B,12,91,40
+"Suárez, Eugenio",553993,Reds,2019,3B,13,123,-37
+"Iglesias, Jose",578428,Reds,2019,SS,13,144,-22
+"Santana, Carlos",467793,Guardians,2019,1B,10,88,41
+"Lindor, Francisco",596019,Guardians,2019,SS,13,144,-22
+"Desmond, Ian",435622,Rockies,2019,CF,20,332,-2
+"Reynolds, Mark",448602,Rockies,2019,1B,13,87,41
+"Blackmon, Charlie",453568,Rockies,2019,RF,32,301,28
+"Murphy, Daniel",502517,Rockies,2019,1B,13,89,37
+"Arenado, Nolan",571448,Rockies,2019,3B,31,118,-37
+"Story, Trevor",596115,Rockies,2019,SS,33,141,-21
+"Tapia, Raimel",606132,Rockies,2019,LF,18,310,-27
+"Dahl, David",621311,Rockies,2019,LF,10,304,-30
+"Hampson, Garrett",641658,Rockies,2019,2B,17,152,-4
+"McMahon, Ryan",641857,Rockies,2019,2B,11,153,-4
+"Cabrera, Miguel",408234,Tigers,2019,1B,12,88,42
+"Mercer, Jordy",474568,Tigers,2019,SS,34,146,-23
+"Beckham, Gordon",493596,Tigers,2019,2B,19,150,-7
+"Rodríguez, Ronny",500135,Tigers,2019,1B,16,88,42
+"Rodríguez, Ronny",500135,Tigers,2019,SS,11,140,-22
+"Rodríguez, Ronny",500135,Tigers,2019,2B,15,152,-5
+"Harrison, Josh",543281,Tigers,2019,2B,17,154,-5
+"Hicks, John",543308,Tigers,2019,1B,14,90,39
+"Castellanos, Nick",592206,Tigers,2019,RF,40,299,24
+"Goodrum, Niko",592348,Tigers,2019,SS,16,140,-22
+"Jones, JaCoby",592444,Tigers,2019,CF,35,330,-2
+"Candelario, Jeimer",600869,Tigers,2019,3B,22,118,-37
+"Candelario, Jeimer",600869,Tigers,2019,1B,10,87,42
+"Castro, Harold",605612,Tigers,2019,2B,17,148,-3
+"Castro, Harold",605612,Tigers,2019,CF,26,326,-2
+"Lugo, Dawel",608475,Tigers,2019,3B,50,123,-37
+"Stewart, Christin",621514,Tigers,2019,LF,33,304,-27
+"Reyes, Victor",622682,Tigers,2019,CF,15,336,-3
+"Reyes, Victor",622682,Tigers,2019,LF,19,304,-30
+"Demeritte, Travis",641513,Tigers,2019,RF,35,294,26
+"Dixon, Brandon",641525,Tigers,2019,LF,10,303,-29
+"Dixon, Brandon",641525,Tigers,2019,1B,23,88,42
+"Castro, Willi",650489,Tigers,2019,SS,18,144,-23
+"Brantley, Michael",488726,Astros,2019,LF,71,295,-27
+"Gurriel, Yuli",493329,Astros,2019,3B,36,116,-37
+"Gurriel, Yuli",493329,Astros,2019,1B,48,89,41
+"Reddick, Josh",502210,Astros,2019,RF,70,302,25
+"Altuve, Jose",514888,Astros,2019,2B,78,148,-5
+"Springer, George",543807,Astros,2019,RF,20,285,25
+"Springer, George",543807,Astros,2019,CF,39,319,-1
+"Marisnick, Jake",545350,Astros,2019,CF,45,315,-1
+"Bregman, Alex",608324,Astros,2019,SS,50,141,-22
+"Bregman, Alex",608324,Astros,2019,3B,40,116,-38
+"Mayfield, Jack",608686,Astros,2019,SS,11,141,-22
+"Correa, Carlos",621043,Astros,2019,SS,29,144,-22
+"Kemp, Tony",643393,Astros,2019,2B,14,147,-5
+"White, Tyler",643603,Astros,2019,1B,41,90,41
+"Toro, Abraham",647351,Astros,2019,3B,12,118,-36
+"Díaz, Aledmys",649557,Astros,2019,1B,12,93,40
+"Díaz, Aledmys",649557,Astros,2019,3B,13,115,-37
+"Straw, Myles",664702,Astros,2019,CF,11,323,-2
+"Gordon, Alex",460086,Royals,2019,LF,70,312,-28
+"Hamilton, Billy",571740,Royals,2019,CF,49,328,2
+"Owings, Chris",572008,Royals,2019,2B,19,155,-6
+"Merrifield, Whit",593160,Royals,2019,RF,16,296,25
+"Merrifield, Whit",593160,Royals,2019,2B,42,154,-4
+"Mondesi, Adalberto",609275,Royals,2019,SS,58,139,-21
+"Soler, Jorge",624585,Royals,2019,RF,35,301,27
+"Dozier, Hunter",641531,Royals,2019,3B,44,120,-39
+"Gutiérrez, Kelvin",642721,Royals,2019,3B,15,120,-40
+"O'Hearn, Ryan",656811,Royals,2019,1B,53,87,40
+"Lopez, Nicky",670032,Royals,2019,2B,13,150,-3
+"Pujols, Albert",405395,Angels,2019,1B,29,90,40
+"Upton, Justin",457708,Angels,2019,LF,19,298,-26
+"Trout, Mike",545361,Angels,2019,CF,32,319,3
+"Bour, Justin",571506,Angels,2019,1B,16,89,40
+"Goodwin, Brian",571718,Angels,2019,LF,17,295,-23
+"Goodwin, Brian",571718,Angels,2019,CF,34,314,3
+"Simmons, Andrelton",592743,Angels,2019,SS,61,141,-23
+"Calhoun, Kole",594777,Angels,2019,RF,62,287,28
+"Ward, Taylor",621493,Angels,2019,LF,11,296,-23
+"Hermosillo, Michael",641684,Angels,2019,LF,13,300,-24
+"Thaiss, Matt",642136,Angels,2019,3B,25,119,-38
+"Rengifo, Luis",650859,Angels,2019,2B,30,146,-6
+"Fletcher, David",664058,Angels,2019,2B,31,149,-7
+"Fletcher, David",664058,Angels,2019,3B,25,117,-38
+"Walsh, Jared",665120,Angels,2019,1B,20,90,41
+"Turner, Justin",457759,Dodgers,2019,3B,178,108,-39
+"Freese, David",501896,Dodgers,2019,1B,46,87,42
+"Negrón, Kristopher",502117,Dodgers,2019,CF,17,324,-2
+"Hernández, Enrique",571771,Dodgers,2019,2B,86,150,-4
+"Hernández, Enrique",571771,Dodgers,2019,LF,12,311,-28
+"Hernández, Enrique",571771,Dodgers,2019,SS,15,140,-23
+"Hernández, Enrique",571771,Dodgers,2019,CF,25,323,0
+"Muncy, Max",571970,Dodgers,2019,3B,32,117,-37
+"Muncy, Max",571970,Dodgers,2019,2B,107,151,-5
+"Muncy, Max",571970,Dodgers,2019,1B,54,89,40
+"Pollock, AJ",572041,Dodgers,2019,LF,29,303,-26
+"Pollock, AJ",572041,Dodgers,2019,CF,67,323,-1
+"Gyorko, Jedd",576397,Dodgers,2019,1B,11,89,40
+"Pederson, Joc",592626,Dodgers,2019,LF,65,298,-27
+"Pederson, Joc",592626,Dodgers,2019,RF,66,286,27
+"Pederson, Joc",592626,Dodgers,2019,1B,31,87,41
+"Beaty, Matt",607461,Dodgers,2019,LF,49,310,-27
+"Beaty, Matt",607461,Dodgers,2019,3B,14,117,-39
+"Beaty, Matt",607461,Dodgers,2019,1B,47,88,40
+"Seager, Corey",608369,Dodgers,2019,SS,189,139,-23
+"Taylor, Chris",621035,Dodgers,2019,CF,19,321,0
+"Taylor, Chris",621035,Dodgers,2019,SS,45,146,-22
+"Taylor, Chris",621035,Dodgers,2019,2B,16,151,-4
+"Taylor, Chris",621035,Dodgers,2019,LF,55,303,-28
+"Rios, Edwin",621458,Dodgers,2019,1B,10,93,40
+"Bellinger, Cody",641355,Dodgers,2019,RF,152,287,26
+"Bellinger, Cody",641355,Dodgers,2019,CF,33,321,0
+"Bellinger, Cody",641355,Dodgers,2019,1B,40,86,42
+"Verdugo, Alex",657077,Dodgers,2019,LF,23,300,-28
+"Verdugo, Alex",657077,Dodgers,2019,CF,89,319,-1
+"Garlick, Kyle",664247,Dodgers,2019,LF,15,311,-28
+"Lux, Gavin",666158,Dodgers,2019,2B,40,147,-6
+"Granderson, Curtis",434158,Marlins,2019,LF,54,301,-30
+"Walker, Neil",435522,Marlins,2019,3B,17,116,-39
+"Walker, Neil",435522,Marlins,2019,1B,46,88,40
+"Prado, Martín",445988,Marlins,2019,3B,14,111,-38
+"Prado, Martín",445988,Marlins,2019,1B,28,87,41
+"Rojas, Miguel",500743,Marlins,2019,SS,95,143,-22
+"Castro, Starlin",516770,Marlins,2019,3B,38,117,-38
+"Castro, Starlin",516770,Marlins,2019,2B,90,149,-5
+"Puello, César",527049,Marlins,2019,CF,20,324,-1
+"Puello, César",527049,Marlins,2019,RF,10,301,24
+"Berti, Jon",542932,Marlins,2019,3B,17,113,-38
+"Berti, Jon",542932,Marlins,2019,SS,26,140,-24
+"Berti, Jon",542932,Marlins,2019,CF,13,330,-1
+"Riddle, JT",595375,Marlins,2019,CF,20,329,-2
+"Anderson, Brian",605119,Marlins,2019,3B,46,121,-37
+"Anderson, Brian",605119,Marlins,2019,RF,50,294,24
+"Brinson, Lewis",621446,Marlins,2019,CF,57,324,-2
+"Dean, Austin",621573,Marlins,2019,LF,28,298,-27
+"Ramírez, Harold",623912,Marlins,2019,RF,27,304,25
+"Ramírez, Harold",623912,Marlins,2019,CF,16,331,-1
+"Ramírez, Harold",623912,Marlins,2019,LF,43,307,-28
+"Cooper, Garrett",643265,Marlins,2019,1B,60,86,41
+"Cooper, Garrett",643265,Marlins,2019,RF,18,302,23
+"Díaz, Isan",656371,Marlins,2019,2B,44,145,-7
+"Cain, Lorenzo",456715,Brewers,2019,CF,90,326,1
+"Braun, Ryan",460075,Brewers,2019,LF,59,308,-27
+"Moustakas, Mike",519058,Brewers,2019,3B,54,113,-38
+"Moustakas, Mike",519058,Brewers,2019,2B,36,147,-6
+"Thames, Eric",519346,Brewers,2019,1B,46,90,40
+"Pérez, Hernán",541650,Brewers,2019,2B,17,153,-5
+"Aguilar, Jesús",542583,Brewers,2019,1B,45,88,41
+"Shaw, Travis",543768,Brewers,2019,3B,42,114,-39
+"Gamel, Ben",592325,Brewers,2019,LF,35,309,-27
+"Yelich, Christian",592885,Brewers,2019,RF,86,294,27
+"Arcia, Orlando",606115,Brewers,2019,SS,85,142,-23
+"Hiura, Keston",669374,Brewers,2019,2B,47,151,-6
+"Adrianza, Ehire",501303,Twins,2019,SS,23,142,-22
+"Adrianza, Ehire",501303,Twins,2019,2B,12,147,-8
+"Adrianza, Ehire",501303,Twins,2019,1B,22,87,41
+"Adrianza, Ehire",501303,Twins,2019,3B,36,116,-37
+"Gonzalez, Marwin",503556,Twins,2019,3B,62,113,-37
+"Gonzalez, Marwin",503556,Twins,2019,LF,11,310,-25
+"Gonzalez, Marwin",503556,Twins,2019,RF,63,293,30
+"Gonzalez, Marwin",503556,Twins,2019,1B,29,88,42
+"LaMarre, Ryan",534606,Twins,2019,CF,15,334,2
+"Cron, C.J.",543068,Twins,2019,1B,169,89,40
+"Astudillo, Willians",553902,Twins,2019,1B,16,88,42
+"Astudillo, Willians",553902,Twins,2019,3B,21,113,-39
+"Schoop, Jonathan",570731,Twins,2019,2B,177,150,-5
+"Rosario, Eddie",592696,Twins,2019,RF,12,295,27
+"Rosario, Eddie",592696,Twins,2019,LF,184,301,-26
+"Polanco, Jorge",593871,Twins,2019,SS,209,139,-23
+"Sanó, Miguel",593934,Twins,2019,3B,115,120,-39
+"Cave, Jake",595909,Twins,2019,RF,45,293,28
+"Cave, Jake",595909,Twins,2019,LF,15,304,-26
+"Cave, Jake",595909,Twins,2019,CF,20,337,0
+"Kepler, Max",596146,Twins,2019,RF,116,289,27
+"Kepler, Max",596146,Twins,2019,CF,74,330,3
+"Buxton, Byron",621439,Twins,2019,CF,127,325,3
+"Arraez, Luis",650333,Twins,2019,3B,14,116,-39
+"Arraez, Luis",650333,Twins,2019,LF,25,320,-26
+"Arraez, Luis",650333,Twins,2019,2B,53,146,-6
+"Frazier, Todd",453943,Mets,2019,3B,20,113,-38
+"Lagares, Juan",501571,Mets,2019,CF,16,322,-3
+"Davis, J.D.",605204,Mets,2019,LF,12,302,-27
+"Alonso, Pete",624413,Mets,2019,1B,23,90,39
+"Conforto, Michael",624424,Mets,2019,RF,17,294,26
+"Rosario, Amed",642708,Mets,2019,SS,23,142,-25
+"Maybin, Cameron",457727,Yankees,2019,RF,13,296,25
+"Maybin, Cameron",457727,Yankees,2019,LF,23,300,-24
+"Gardner, Brett",458731,Yankees,2019,CF,42,324,0
+"Gardner, Brett",458731,Yankees,2019,LF,14,307,-24
+"LeMahieu, DJ",518934,Yankees,2019,3B,16,117,-38
+"LeMahieu, DJ",518934,Yankees,2019,2B,34,151,-5
+"LeMahieu, DJ",518934,Yankees,2019,1B,10,87,42
+"Hicks, Aaron",543305,Yankees,2019,CF,22,336,2
+"Gregorius, Didi",544369,Yankees,2019,SS,31,145,-22
+"Urshela, Gio",570482,Yankees,2019,3B,52,118,-38
+"Voit, Luke",572228,Yankees,2019,1B,45,90,40
+"Judge, Aaron",592450,Yankees,2019,RF,26,287,26
+"Frazier, Clint",640449,Yankees,2019,RF,20,293,26
+"Tauchman, Mike",643565,Yankees,2019,LF,21,296,-26
+"Ford, Mike",645801,Yankees,2019,1B,10,87,42
+"Torres, Gleyber",650402,Yankees,2019,2B,25,153,-6
+"Torres, Gleyber",650402,Yankees,2019,SS,28,146,-22
+"Hernández, César",514917,Phillies,2019,2B,19,153,-6
+"Segura, Jean",516416,Phillies,2019,SS,18,145,-24
+"Harper, Bryce",547180,Phillies,2019,RF,19,296,27
+"Franco, Maikel",596748,Phillies,2019,3B,11,123,-38
+"Hoskins, Rhys",656555,Phillies,2019,1B,20,93,37
+"Cabrera, Melky",466320,Pirates,2019,LF,15,309,-26
+"Cabrera, Melky",466320,Pirates,2019,RF,45,296,28
+"Marte, Starling",516782,Pirates,2019,CF,102,328,2
+"Polanco, Gregory",570256,Pirates,2019,RF,25,298,29
+"González, Erik",570481,Pirates,2019,SS,11,144,-23
+"González, Erik",570481,Pirates,2019,3B,10,125,-38
+"Dickerson, Corey",572816,Pirates,2019,LF,37,315,-25
+"Osuna, José",591741,Pirates,2019,RF,10,305,26
+"Osuna, José",591741,Pirates,2019,1B,27,89,39
+"Osuna, José",591741,Pirates,2019,3B,12,122,-37
+"Moran, Colin",592567,Pirates,2019,3B,73,128,-37
+"Bell, Josh",605137,Pirates,2019,1B,91,89,40
+"Newman, Kevin",621028,Pirates,2019,SS,88,142,-24
+"Newman, Kevin",621028,Pirates,2019,2B,11,149,-5
+"Reyes, Pablo",622569,Pirates,2019,LF,10,312,-28
+"Frazier, Adam",624428,Pirates,2019,2B,104,149,-6
+"Kang, Jung Ho",628356,Pirates,2019,3B,24,118,-38
+"Tucker, Cole",657061,Pirates,2019,SS,19,139,-24
+"Reynolds, Bryan",668804,Pirates,2019,CF,12,326,1
+"Reynolds, Bryan",668804,Pirates,2019,RF,29,299,28
+"Reynolds, Bryan",668804,Pirates,2019,LF,45,308,-26
+"Kinsler, Ian",435079,Padres,2019,2B,19,153,-7
+"Hosmer, Eric",543333,Padres,2019,1B,43,88,40
+"Myers, Wil",571976,Padres,2019,LF,18,308,-27
+"Machado, Manny",592518,Padres,2019,3B,33,118,-37
+"Renfroe, Hunter",592669,Padres,2019,LF,14,311,-28
+"Renfroe, Hunter",592669,Padres,2019,RF,14,300,27
+"Garcia, Greg",594824,Padres,2019,2B,12,150,-3
+"Reyes, Franmil",614177,Padres,2019,RF,27,300,27
+"Margot, Manuel",622534,Padres,2019,CF,33,331,2
+"Naylor, Josh",647304,Padres,2019,LF,12,308,-28
+"Tatis Jr., Fernando",665487,Padres,2019,SS,29,142,-22
+"Longoria, Evan",446334,Giants,2019,3B,45,120,-38
+"Solano, Donovan",456781,Giants,2019,SS,11,145,-21
+"Sandoval, Pablo",467055,Giants,2019,3B,11,117,-39
+"Belt, Brandon",474832,Giants,2019,1B,47,89,37
+"Crawford, Brandon",543063,Giants,2019,SS,48,141,-21
+"Yastrzemski, Mike",573262,Giants,2019,LF,17,305,-28
+"Yastrzemski, Mike",573262,Giants,2019,RF,12,303,26
+"Slater, Austin",596103,Giants,2019,RF,18,304,25
+"Panik, Joe",605412,Giants,2019,2B,29,147,-5
+"Pillar, Kevin",607680,Giants,2019,CF,47,334,-1
+"Duggar, Steven",621453,Giants,2019,CF,14,322,1
+"Dubón, Mauricio",643289,Giants,2019,2B,10,150,-4
+"Pham, Tommy",502054,Rays,2019,LF,146,295,-29
+"d'Arnaud, Travis",518595,Rays,2019,1B,25,88,42
+"Sogard, Eric",519299,Rays,2019,2B,24,150,-5
+"García, Avisaíl",541645,Rays,2019,RF,109,297,26
+"Aguilar, Jesús",542583,Rays,2019,1B,13,88,41
+"Kiermaier, Kevin",595281,Rays,2019,CF,143,325,0
+"Choi, Ji Man",596847,Rays,2019,1B,116,87,40
+"Robertson, Daniel",621002,Rays,2019,3B,32,112,-37
+"Robertson, Daniel",621002,Rays,2019,2B,30,148,-5
+"Wendle, Joey",621563,Rays,2019,3B,19,114,-39
+"Wendle, Joey",621563,Rays,2019,2B,49,154,-4
+"Wendle, Joey",621563,Rays,2019,SS,15,143,-23
+"Duffy, Matt",622110,Rays,2019,3B,53,116,-39
+"Arroyo, Christian",624414,Rays,2019,3B,30,116,-39
+"Heredia, Guillermo",628338,Rays,2019,RF,36,295,27
+"Heredia, Guillermo",628338,Rays,2019,CF,52,323,0
+"Heredia, Guillermo",628338,Rays,2019,LF,12,306,-25
+"Meadows, Austin",640457,Rays,2019,RF,57,294,26
+"Meadows, Austin",640457,Rays,2019,LF,41,303,-28
+"Adames, Willy",642715,Rays,2019,SS,187,141,-23
+"Díaz, Yandy",650490,Rays,2019,3B,54,109,-36
+"Díaz, Yandy",650490,Rays,2019,1B,31,87,42
+"Lowe, Nathaniel",663993,Rays,2019,1B,19,89,40
+"Lowe, Brandon",664040,Rays,2019,2B,75,145,-5
+"Brosseau, Mike",670712,Rays,2019,2B,28,154,-7
+"Brosseau, Mike",670712,Rays,2019,3B,17,122,-39
+"Choo, Shin-Soo",425783,Rangers,2019,RF,13,312,26
+"Choo, Shin-Soo",425783,Rangers,2019,LF,11,306,-27
+"Cabrera, Asdrúbal",452678,Rangers,2019,3B,15,122,-39
+"Andrus, Elvis",462101,Rangers,2019,SS,45,142,-21
+"Forsythe, Logan",523253,Rangers,2019,1B,12,85,45
+"Santana, Danny",542454,Rangers,2019,RF,10,301,27
+"Santana, Danny",542454,Rangers,2019,1B,17,84,46
+"DeShields, Delino",592261,Rangers,2019,CF,32,326,0
+"Odor, Rougned",596059,Rangers,2019,2B,46,150,-5
+"Mazara, Nomar",608577,Rangers,2019,RF,21,309,26
+"Guzmán, Ronald",608597,Rangers,2019,1B,18,94,37
+"Calhoun, Willie",641432,Rangers,2019,LF,32,295,-25
+"Kiner-Falefa, Isiah",643396,Rangers,2019,3B,15,121,-39
+"Solak, Nick",669256,Rangers,2019,3B,13,123,-39
+"Smoak, Justin",475253,Blue Jays,2019,1B,34,91,38
+"Sogard, Eric",519299,Blue Jays,2019,2B,14,152,-3
+"Galvis, Freddy",520471,Blue Jays,2019,SS,52,146,-21
+"Grichuk, Randal",545341,Blue Jays,2019,CF,25,323,1
+"Grichuk, Randal",545341,Blue Jays,2019,RF,43,297,27
+"Drury, Brandon",592273,Blue Jays,2019,3B,30,123,-37
+"Drury, Brandon",592273,Blue Jays,2019,2B,10,143,-6
+"Hernández, Teoscar",606192,Blue Jays,2019,CF,38,334,2
+"Hernández, Teoscar",606192,Blue Jays,2019,LF,13,312,-23
+"Biggio, Cavan",624415,Blue Jays,2019,2B,44,150,-3
+"Davis, Jonathan",641505,Blue Jays,2019,CF,14,329,0
+"McKinney, Billy",641856,Blue Jays,2019,LF,12,320,-22
+"McKinney, Billy",641856,Blue Jays,2019,RF,14,291,26
+"Tellez, Rowdy",642133,Blue Jays,2019,1B,34,88,40
+"Guerrero Jr., Vladimir",665489,Blue Jays,2019,3B,45,122,-36
+"Bichette, Bo",666182,Blue Jays,2019,SS,21,143,-21
+"Gurriel Jr., Lourdes",666971,Blue Jays,2019,LF,41,328,-24

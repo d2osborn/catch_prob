@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
@@ -216,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# data
+data/all_situations/
+data/lhh_000_no_shift/
+data/rhh_000_no_shift/
+data/lhh_000_shift/
+data/rhh_000_shift/
+data/lhh_001_no_shift
+data/lhh_001_shift
+data/rhh_001_no_shift
+data/rhh_001_shift
+data/lhh_else_no_shift
+data/rhh_else_no_shift
+data/lhh_else_shift
+data/rhh_else_shift
